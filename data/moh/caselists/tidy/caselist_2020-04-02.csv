@@ -1,0 +1,798 @@
+"date of report","sex","age group","dhb","international travel","last country before return","arrival date","flight departure date","flight number","casetype","datasource","releasedate"
+2020-03-25,"Female","20 to 29","Northland","Yes","United Arab Emirates",NA,2020-03-19,"EK488","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","50 to 59","Northland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","50 to 59","Northland","Yes","United States of America",2020-03-22,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","20 to 29","Northland","Yes","Canada",2020-03-23,2020-03-23,"GB615","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","60 to 69","Northland","Yes","United States of America",2020-03-24,2020-03-23,"NZ001","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-17,"Male","20 to 29","Northland","Yes",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","30 to 39","Northland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","40 to 49","Northland","Yes","Australia",2020-03-15,2020-03-15,"JQZ217","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","20 to 29","Northland","Yes","Saudi Arabia",2020-03-24,NA,"EK0448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","40 to 49","Northland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","70+","Waitemata","Yes","United States of America",2020-03-19,2020-03-17,"NZ5","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-19,"Female","40 to 49","Waitemata","Yes","Qatar",2020-03-15,2020-03-14,"QR920","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","20 to 29","Waitemata","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","20 to 29","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","40 to 49","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","40 to 49","Waitemata","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","20 to 29","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","20 to 29","Waitemata","Yes","United Arab Emirates",2020-03-24,2020-03-23,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","20 to 29","Waitemata","Yes","United Arab Emirates",2020-03-24,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","20 to 29","Waitemata","Yes","United Kingdom",2020-03-21,2020-03-20,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","20 to 29","Waitemata","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","40 to 49","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","15 to 19","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-17,"Male","60 to 69","Waitemata","Yes","United States of America",2020-03-13,2020-03-11,"UA559","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","40 to 49","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","30 to 39","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","20 to 29","Waitemata","Yes","Chile",2020-03-20,2020-03-19,"LA801","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","40 to 49","Waitemata","Yes","United States of America",2020-03-16,2020-03-14,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","20 to 29","Waitemata","Yes","United States of America",2020-03-18,2020-03-18,"QF143","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-17,"Male","60 to 69","Waitemata","Yes","Canada",2020-03-12,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","50 to 59","Waitemata","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","60 to 69","Waitemata","Yes","Argentina",2020-03-17,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","60 to 69","Waitemata","Yes","Argentina",2020-03-17,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","40 to 49","Waitemata","Yes","Australia",2020-03-18,2020-03-18,"QF143","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","40 to 49","Waitemata","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","20 to 29","Waitemata","Yes",NA,2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","40 to 49","Waitemata","Yes",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","30 to 39","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","30 to 39","Waitemata","Yes","Switzerland",2020-03-17,2020-03-16,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","50 to 59","Waitemata","Yes","United States of America",2020-03-25,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","70+","Waitemata","Yes","England",2020-03-24,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","70+","Waitemata","Yes","England",2020-03-24,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","30 to 39","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","20 to 29","Waitemata","Yes","Qatar",2020-03-22,2020-03-20,"QR920","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","20 to 29","Waitemata","Yes","United States of America",NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","20 to 29","Waitemata","Yes",NA,2020-03-20,NA,"LA801","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","60 to 69","Waitemata","Yes","Qatar",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","60 to 69","Waitemata","Yes","Australia",2020-03-22,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","30 to 39","Waitemata","Yes",NA,2020-03-18,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","20 to 29","Waitemata","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","50 to 59","Waitemata","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","50 to 59","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","15 to 19","Waitemata","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","50 to 59","Waitemata","Yes","United States of America",2020-03-19,2020-03-20,"Ak - Invercargill","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","15 to 19","Waitemata","Yes","United States of America",2020-03-18,NA,"NZ29","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","20 to 29","Waitemata","Yes",NA,2020-03-21,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","50 to 59","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","50 to 59","Waitemata","Yes","United States of America",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","40 to 49","Waitemata","Yes","United States of America",2020-03-21,2020-03-19,"AA83","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","15 to 19","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","50 to 59","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","70+","Waitemata","Yes",NA,2020-03-18,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","30 to 39","Waitemata","Yes","New Zealand",2020-03-23,2020-03-21,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","20 to 29","Waitemata","Yes","United States of America",2020-03-24,2020-03-22,"NZ5","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","50 to 59","Waitemata","Yes","Indonesia",2020-03-15,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","20 to 29","Waitemata","Yes","United States of America",2020-03-22,2020-03-20,"AirNZ29","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Female","60 to 69","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-20,"Male","70+","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","20 to 29","Waitemata","Yes","United States of America",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","60 to 69","Waitemata","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-02,"Female","30 to 39","Waitemata","Yes","Italy",2020-02-26,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-04,"Male","40 to 49","Waitemata","Yes","Singapore",2020-02-26,2020-02-25,"NZ283","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-15,"Female","40 to 49","Waitemata","Yes","Portugal",2020-03-08,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","20 to 29","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","40 to 49","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","15 to 19","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","40 to 49","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","10 to 14","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","40 to 49","Waitemata","Yes","United States of America",2020-03-18,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","20 to 29","Waitemata","Yes","Qatar",2020-03-19,2020-03-19,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","20 to 29","Waitemata","Yes","Qatar",2020-03-21,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","20 to 29","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-20,"Female","30 to 39","Waitemata","Yes","United States of America",2020-03-14,2020-03-13,"AA83","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","70+","Waitemata","Yes","Australia",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","30 to 39","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","40 to 49","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","10 to 14","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","30 to 39","Waitemata","Yes","Indonesia",2020-03-23,2020-03-23,"EK450","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","60 to 69","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","50 to 59","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","30 to 39","Waitemata","Yes","United States of America",2020-03-19,2020-03-17,"NZ5","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","30 to 39","Waitemata","Yes",NA,2020-03-06,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","30 to 39","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","10 to 14","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","10 to 14","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","20 to 29","Waitemata","Yes","United States of America",2020-03-19,2020-03-17,"NZ8","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","15 to 19","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","50 to 59","Waitemata","Yes","United States of America",2020-03-20,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","40 to 49","Waitemata","Yes","United Arab Emirates",2020-03-22,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","15 to 19","Waitemata","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","40 to 49","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","30 to 39","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","15 to 19","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","30 to 39","Auckland","Yes","United Arab Emirates",2020-03-24,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","70+","Auckland","Yes","Argentina",2020-03-20,2020-03-19,"LA801","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","30 to 39","Auckland","Yes","United Kingdom",2020-03-16,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","60 to 69","Auckland","Yes","Malaysia",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","60 to 69","Auckland","Yes","Qatar",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","30 to 39","Auckland","Yes","United Kingdom",NA,2020-03-19,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","20 to 29","Auckland","Yes","Malaysia",2020-03-16,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","20 to 29","Auckland","Yes","Qatar",2020-03-22,2020-03-21,"QR920","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","50 to 59","Auckland","Yes","United States of America",2020-03-15,2020-03-13,"NZ1","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","30 to 39","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","60 to 69","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","30 to 39","Auckland","Yes","Indonesia",2020-03-24,2020-03-23,"EK450","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Male","50 to 59","Auckland","Yes","United Kingdom",2020-03-08,2020-03-06,"NZ1","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","20 to 29","Auckland","Yes","Singapore",2020-03-22,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-16,"Male","60 to 69","Auckland","Yes","United States of America",2020-03-13,2020-03-10,"NZ7","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","15 to 19","Auckland","Yes","Australia",2020-03-21,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","40 to 49","Auckland","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","20 to 29","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","20 to 29","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","40 to 49","Auckland","Yes","Canada",2020-03-25,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","50 to 59","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Female","20 to 29","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,NA,"20 to 29","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","30 to 39","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","40 to 49","Auckland","Yes","United States of America",2020-03-15,2020-03-15,"NZ1","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","70+","Auckland","Yes","Chile",2020-03-20,2020-03-20,"LA801","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","20 to 29","Auckland","Yes","United States of America",2020-03-23,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","40 to 49","Auckland","Yes","United States of America",2020-03-20,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","20 to 29","Auckland","Yes","Singapore",2020-03-18,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-19,"Male","40 to 49","Auckland","Yes","Singapore",NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","20 to 29","Auckland","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","20 to 29","Auckland","Yes","United States of America",2020-03-21,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","30 to 39","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","20 to 29","Auckland","Yes",NA,2020-03-25,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","30 to 39","Auckland","Yes","United Arab Emirates",2020-03-23,2020-03-22,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","60 to 69","Auckland","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","30 to 39","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","15 to 19","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","60 to 69","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","30 to 39","Auckland","Yes","Qatar",2020-03-17,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-17,"Male","40 to 49","Auckland","Yes","Singapore",2020-03-15,2020-03-15,"QF13","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","20 to 29","Auckland","Yes","United Arab Emirates",2020-03-24,2020-03-23,"EK0448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-20,"Male","60 to 69","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","20 to 29","Auckland","Yes",NA,2020-03-25,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","20 to 29","Auckland","Yes",NA,2020-03-25,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","10 to 14","Auckland","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","20 to 29","Auckland","Yes","United Kingdom",2020-03-15,2020-03-13,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","60 to 69","Auckland","Yes","India",2020-03-13,2020-03-13,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-17,"Male","50 to 59","Auckland","Yes","United Kingdom",2020-03-15,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","30 to 39","Auckland","Yes","United States of America",2020-03-18,2020-03-17,"NZ05","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","40 to 49","Auckland","Yes","Australia",2020-03-18,2020-03-18,"QF141","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","50 to 59","Auckland","Yes","United States of America",2020-03-20,2020-03-19,"AA83","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","10 to 14","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","40 to 49","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","15 to 19","Auckland","Yes","United Kingdom",2020-03-24,2020-03-23,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-02,"Female","20 to 29","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","30 to 39","Auckland","Yes",NA,2020-03-24,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","20 to 29","Auckland","Yes","Canada",2020-03-20,2020-03-19,"NZ23","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-02-26,"Female","60 to 69","Auckland","Yes","Indonesia",2020-02-26,2020-02-25,"EK450","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","60 to 69","Auckland","Yes","Qatar",2020-03-22,2020-03-21,"EK0448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Male","20 to 29","Auckland","Yes","Qatar",2020-03-17,2020-03-15,"EK52","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","40 to 49","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-19,"Male","40 to 49","Auckland","Yes","United States of America",2020-03-14,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","20 to 29","Auckland","Yes","Qatar",2020-03-21,2020-03-20,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","30 to 39","Auckland","Yes","United States of America",2020-03-17,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","30 to 39","Auckland","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","30 to 39","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","20 to 29","Auckland","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","40 to 49","Auckland","Yes","United States of America",2020-03-15,2020-03-13,"NZ1","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","40 to 49","Auckland","Yes","United States of America",2020-03-21,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","40 to 49","Auckland","Yes","United States of America",2020-03-25,2020-03-23,"NZ29","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","60 to 69","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","40 to 49","Auckland","Yes","United States of America",2020-03-25,2020-03-23,"NZ1","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","40 to 49","Auckland","Yes","Australia",2020-03-23,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-18,"Female","50 to 59","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","40 to 49","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","30 to 39","Auckland","Yes","Ireland",2020-03-16,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","40 to 49","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","70+","Auckland","Yes",NA,2020-03-24,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","20 to 29","Auckland","Yes","Scotland",2020-03-22,2020-03-21,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","10 to 14","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","30 to 39","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","20 to 29","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","20 to 29","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","40 to 49","Auckland","Yes","United States of America",2020-03-18,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","15 to 19","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","30 to 39","Auckland","Yes","United States of America",2020-03-17,2020-03-15,"NZ29","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","70+","Auckland","Yes","United States of America",2020-03-17,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","40 to 49","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","50 to 59","Auckland","Yes",NA,2020-03-24,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","50 to 59","Auckland","Yes","Canada",2020-03-22,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","20 to 29","Auckland","Yes","United Arab Emirates",2020-03-20,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","15 to 19","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","20 to 29","Auckland","Yes","Netherlands",2020-03-21,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","15 to 19","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","60 to 69","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","50 to 59","Auckland","Yes","United Kingdom",2020-03-21,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Female","50 to 59","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","60 to 69","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","60 to 69","Auckland","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","60 to 69","Auckland","Yes","United States of America",2020-03-27,2020-03-25,"NZ1","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","30 to 39","Counties Manukau","Yes","Australia",2020-03-17,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","40 to 49","Counties Manukau","Yes","United States of America",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Male","60 to 69","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Male","60 to 69","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","40 to 49","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","40 to 49","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","20 to 29","Counties Manukau","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","50 to 59","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","30 to 39","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","30 to 39","Counties Manukau",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","40 to 49","Counties Manukau","Yes","Belgium",2020-03-16,2020-03-15,"EK448 seat 51F","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","50 to 59","Counties Manukau","Yes","United States of America",2020-03-22,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","40 to 49","Counties Manukau","Yes","United States of America",2020-03-18,2020-03-16,"AA3","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-04,"Male","40 to 49","Counties Manukau","Yes","Iran",2020-02-23,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-06,"Female","40 to 49","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","20 to 29","Counties Manukau","Yes","Canada",2020-03-26,2020-03-25,"nz23","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","50 to 59","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","20 to 29","Counties Manukau","Yes","Canada",2020-03-25,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","20 to 29","Counties Manukau","Yes","Canada",2020-03-23,2020-03-23,"NZ1","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","20 to 29","Counties Manukau","Yes","United Arab Emirates",2020-03-19,2020-03-19,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","60 to 69","Counties Manukau","Yes","Qatar",2020-03-19,2020-03-18,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","20 to 29","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,NA,"20 to 29","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Male","15 to 19","Counties Manukau",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","15 to 19","Counties Manukau","Yes","United Arab Emirates",2020-03-20,2020-03-19,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","30 to 39","Counties Manukau","Yes","Singapore",2020-03-20,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","30 to 39","Counties Manukau","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","30 to 39","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","20 to 29","Counties Manukau","Yes","Malaysia",2020-03-19,2020-03-19,"MH0133","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","10 to 14","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","40 to 49","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","10 to 14","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","15 to 19","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","60 to 69","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","60 to 69","Counties Manukau","Yes","United Arab Emirates",2020-03-17,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","60 to 69","Counties Manukau","Yes",NA,2020-03-07,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","40 to 49","Counties Manukau","Yes","United States of America",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","20 to 29","Counties Manukau","Yes","United Arab Emirates",2020-03-17,2020-03-16,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","50 to 59","Counties Manukau","Yes","Spain",2020-03-18,2020-03-17,"QR920","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","50 to 59","Counties Manukau","Yes","Qatar",2020-03-18,2020-03-17,"QR920","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-02,"Female","50 to 59","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","60 to 69","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","50 to 59","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","30 to 39","Counties Manukau","Yes","United Kingdom",2020-03-23,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Female","40 to 49","Counties Manukau","Yes","Zimbabwe",2020-03-10,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","10 to 14","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-19,"Male","40 to 49","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-17,"Female","30 to 39","Counties Manukau","Yes","United States of America",2020-03-13,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","30 to 39","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-12,"Male","60 to 69","Counties Manukau","Yes","United States of America",2020-03-06,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","15 to 19","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","20 to 29","Counties Manukau",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","30 to 39","Waikato","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","20 to 29","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","30 to 39","Waikato","Yes","United Arab Emirates",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","20 to 29","Waikato","Yes","Indonesia",2020-03-23,2020-03-23,"EK0450 - 28A","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","20 to 29","Waikato","Yes","United Arab Emirates",2020-03-15,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","20 to 29","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","30 to 39","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","50 to 59","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","30 to 39","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","30 to 39","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","15 to 19","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","50 to 59","Waikato","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","50 to 59","Waikato","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","50 to 59","Waikato","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","50 to 59","Waikato","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","20 to 29","Waikato","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","50 to 59","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","20 to 29","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","60 to 69","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","15 to 19","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","30 to 39","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","15 to 19","Waikato","Yes","Canada",2020-03-22,2020-03-20,"NZ23","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","15 to 19","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","40 to 49","Waikato","Yes","United Arab Emirates",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","70+","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","60 to 69","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","70+","Waikato","Yes","Philippines",2020-03-06,NA,"PR218","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","15 to 19","Waikato","Yes",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","50 to 59","Waikato","Yes","Philippines",2020-03-07,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","40 to 49","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","70+","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","30 to 39","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","60 to 69","Waikato","Yes","Qatar",2020-03-19,2020-03-18,"QR920 seat 16A","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-19,"Female","70+","Waikato","Yes","France",2020-03-17,2020-03-16,"EK0450","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","70+","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","40 to 49","Waikato","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","50 to 59","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","30 to 39","Waikato","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","30 to 39","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","15 to 19","Waikato","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","50 to 59","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","20 to 29","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","40 to 49","Waikato","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","30 to 39","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","30 to 39","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","1 to 4","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","50 to 59","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","20 to 29","Waikato","Yes","Qatar",2020-03-13,2020-03-11,"EL342","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","20 to 29","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","60 to 69","Waikato","Yes","United Arab Emirates",2020-03-16,2020-03-15,"EK0448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","60 to 69","Waikato","Yes","France",2020-03-16,2020-03-16,"EK0448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","20 to 29","Waikato","Yes","United States of America",2020-03-25,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","60 to 69","Waikato","Yes",NA,2020-03-20,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Male","60 to 69","Waikato","Yes","United States of America",2020-03-15,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","60 to 69","Waikato","Yes","United Kingdom",2020-03-19,2020-03-18,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","20 to 29","Waikato","Unknown",NA,NA,2020-03-20,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","20 to 29","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","20 to 29","Waikato","Yes","Indonesia",2020-03-23,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-19,"Female","60 to 69","Waikato","Yes","France",2020-03-17,2020-03-16,"EK0450","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","30 to 39","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","60 to 69","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","30 to 39","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","60 to 69","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","20 to 29","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","40 to 49","Waikato","Yes","Thailand",2020-03-18,2020-03-18,"TG491","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","60 to 69","Waikato","Yes","United Kingdom",2020-03-20,2020-03-19,"EK0448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","50 to 59","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","40 to 49","Waikato","Yes","Ireland",2020-03-21,NA,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","20 to 29","Waikato","Yes","England",2020-03-23,2020-04-22,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","50 to 59","Waikato","Yes","United Arab Emirates",2020-03-16,2020-03-15,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","40 to 49","Waikato","Yes",NA,NA,2020-03-17,"NZ5","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","60 to 69","Waikato","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","20 to 29","Waikato","Unknown",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","20 to 29","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","50 to 59","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","60 to 69","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","20 to 29","Waikato","Yes",NA,2020-03-22,2020-03-20,"NZ 7","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","50 to 59","Waikato","Yes","Australia",2020-03-18,2020-03-18,"Sydney to Auckland","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","50 to 59","Waikato","Yes","Australia",2020-03-18,2020-03-18,"VA 145","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","70+","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","70+","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","60 to 69","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","60 to 69","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","20 to 29","Waikato","Yes","United Kingdom",2020-03-24,NA,"EK010","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","50 to 59","Waikato","Yes","Thailand",2020-03-22,2020-03-21,"Thai Bangkok-Akld","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Female","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-16,"Female","20 to 29","Waikato","Yes","Australia",2020-03-08,2020-03-08,"NZ112","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","20 to 29","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-20,"Female","60 to 69","Waikato","Yes","Singapore",2020-03-15,2020-03-14,"SQ285","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-16,"Male","70+","Waikato","Yes","Singapore",NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","40 to 49","Waikato","Yes","Singapore",2020-03-16,2020-03-15,"SQ281","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","50 to 59","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","60 to 69","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","60 to 69","Waikato","No",NA,NA,2020-03-23,"NZ8872","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","40 to 49","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","50 to 59","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Female","60 to 69","Waikato","Yes","Middle East",2020-03-17,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","30 to 39","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","70+","Bay of Plenty","Yes","United States of America",2020-03-24,NA,"Unknown","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","20 to 29","Lakes","Yes","England",2020-03-17,2020-03-18,"NZ8149","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-17,"Male","50 to 59","Lakes","Yes","Singapore",2020-03-13,2020-03-13,"SQ285","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","30 to 39","Lakes","Yes","United Arab Emirates",2020-03-23,2020-03-22,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","30 to 39","Lakes","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","30 to 39","Lakes","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","20 to 29","Lakes","Yes","United Arab Emirates",2020-03-19,2020-03-19,"NZ8155","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","20 to 29","Lakes","Yes","Switzerland",2020-03-24,NA,"QR920","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","60 to 69","Lakes","Yes","England",2020-03-25,2020-03-23,"cx2190","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-20,"Male","50 to 59","Lakes","Yes","United Arab Emirates",2020-03-12,2020-03-10,"EK0448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","50 to 59","Lakes","Yes","Singapore",2020-03-14,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","20 to 29","Lakes","Yes",NA,2020-03-23,2020-03-22,"QR920","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","40 to 49","Bay of Plenty","No",NA,NA,2020-03-20,"NZ627","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","70+","Bay of Plenty","No",NA,NA,2020-03-17,"NZ674","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","70+","Bay of Plenty",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","70+","Bay of Plenty","Yes","Northern America",2020-03-18,2020-03-16,"NZ29","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","20 to 29","Bay of Plenty","Yes","Australia",2020-03-26,2020-03-23,"EK002","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","20 to 29","Bay of Plenty","Yes","England",2020-03-24,2020-03-23,"EKO068","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","40 to 49","Bay of Plenty","Yes","United Kingdom",2020-03-25,2020-03-23,"QS151","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","20 to 29","Bay of Plenty","Yes","United Arab Emirates",2020-03-23,2020-03-23,"NZ8141","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","50 to 59","Bay of Plenty","Yes","United Kingdom",2020-03-24,2020-03-22,"EK0448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","70+","Bay of Plenty","Yes","United States of America",2020-03-23,2020-03-20,"NZ7","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","20 to 29","Bay of Plenty","Yes","Indonesia",2020-03-26,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","40 to 49","Bay of Plenty","Yes","United States of America",2020-03-24,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","60 to 69","Bay of Plenty",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","20 to 29","Bay of Plenty","Yes","United Kingdom",2020-03-27,2020-03-27,"QR0920","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","30 to 39","Bay of Plenty","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","20 to 29","Bay of Plenty","Yes","Greece",2020-03-18,2020-03-17,"qr920","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","60 to 69","Bay of Plenty","Yes","Australia",2020-03-17,NA,"NZ102","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Male","30 to 39","Bay of Plenty","Yes","United States of America",2020-03-17,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","50 to 59","Tairawhiti","Yes","United States of America",2020-03-20,2020-03-18,"NZ8161 5C","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","20 to 29","Hawke's Bay","Yes","United States of America",2020-03-25,2020-03-25,"NZ8161 (4A)","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","70+","Hawke's Bay","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","60 to 69","Hawke's Bay","Yes","Australia",2020-03-20,2020-03-20,"NZ5027","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","50 to 59","Hawke's Bay","Yes","Australia",2020-03-20,2020-03-20,"NZ5027","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","70+","Hawke's Bay","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","70+","Hawke's Bay","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","70+","Hawke's Bay","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-19,"Male","30 to 39","Hawke's Bay","Yes","Qatar",2020-03-17,2020-03-16,"QR0920","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","30 to 39","Hawke's Bay","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","30 to 39","Hawke's Bay","No",NA,NA,2020-03-15,"NZ5011","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","50 to 59","Hawke's Bay","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","20 to 29","Hawke's Bay","Yes","England",2020-03-22,2020-03-22,"NZ5005","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","60 to 69","Hawke's Bay","Yes","Cambodia",2020-03-16,2020-03-16,"NZ5019 (09A)","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","70+","Hawke's Bay","Yes","Cambodia",2020-03-16,2020-03-16,"NZ5019 (09B)","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","70+","Hawke's Bay","Yes","Spain",2020-03-19,2020-03-18,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","70+","Hawke's Bay","Yes","Spain",2020-03-19,2020-03-18,"EK448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","20 to 29","Hawke's Bay","Yes","Canada",2020-03-25,2020-03-25,"NZ5011","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","60 to 69","Hawke's Bay","Yes","Australia",2020-03-23,2020-03-23,"NZ104 (40 A&B)","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","60 to 69","Hawke's Bay","Yes","Australia",2020-03-23,2020-03-23,"NZ104 (40 A&B)","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-16,"Male","40 to 49","Taranaki","Yes","New Zealand",2020-03-15,2020-03-15,"NZ8035","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","20 to 29","Taranaki","Yes","United Kingdom",2020-03-21,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-16,"Female","40 to 49","Taranaki","Yes","Egypt",2020-03-09,2020-03-09,"NZ8041","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","50 to 59","Taranaki","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","15 to 19","Taranaki","Yes","United Arab Emirates",2020-03-20,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","30 to 39","Taranaki","Yes","Singapore",2020-03-24,2020-03-23,"SQ285","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","70+","Taranaki","Yes","Singapore",2020-03-24,2020-03-24,"SQ285","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","30 to 39","Taranaki","Yes","United Kingdom",2020-03-20,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-18,"Male","70+","Taranaki",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Male","20 to 29","Taranaki","Yes","United Arab Emirates",2020-03-18,2020-03-18,"NZ 8041","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","20 to 29","Taranaki","Yes","United Arab Emirates",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","20 to 29","Taranaki","Yes","United Arab Emirates",2020-03-22,2020-03-21,"EK450","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Male","50 to 59","Taranaki","Yes","Thailand",2020-03-16,2020-03-16,"NZ8041","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","50 to 59","Taranaki","Yes",NA,2020-03-18,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","70+","MidCentral","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","50 to 59","MidCentral","Yes","United States of America",2020-03-12,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,NA,"50 to 59","MidCentral","Yes",NA,2020-03-18,2020-03-18,"NZ5107","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","30 to 39","MidCentral","Yes",NA,2020-03-18,2020-03-18,"NZ5107","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","70+","MidCentral","Yes","United Arab Emirates",2020-03-17,2020-03-17,"NZ5115","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","60 to 69","MidCentral","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","50 to 59","MidCentral","Yes","Qatar",2020-03-24,2020-04-24,"NZ5119","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","60 to 69","MidCentral","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","50 to 59","MidCentral","Yes","Qatar",2020-03-24,2020-04-24,"NZ5119","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","20 to 29","MidCentral","Yes","Indonesia",2020-03-19,2020-04-19,"NZ8113","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","40 to 49","MidCentral","Yes","Australia",2020-03-19,2020-03-19,"NZ842","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-19,"Female","20 to 29","MidCentral","Yes","Qatar",2020-03-16,2020-03-16,"NZ5107","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","30 to 39","MidCentral","Yes","Fiji",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Female","40 to 49","MidCentral","Yes","Australia",2020-03-19,2020-03-19,"NZ842","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-19,"Female","30 to 39","MidCentral","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-19,"Male","40 to 49","MidCentral","No",NA,NA,2020-03-13,"NZ5180","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","20 to 29","MidCentral","Yes","Australia",2020-03-06,2020-03-14,"JQ278","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","20 to 29","Whanganui","Yes","United States of America",2020-03-23,2020-03-22,"NZ6067","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","20 to 29","Whanganui","Yes","United States of America",2020-03-23,2020-03-22,"NZ6707","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","20 to 29","Whanganui","Yes","United States of America",2020-03-23,2020-03-22,"NZ6067","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","20 to 29","Whanganui","Yes","Philippines",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Male","20 to 29","Wairarapa","Yes","France",2020-03-12,2020-03-12,"NZ429","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","20 to 29","Wairarapa","Yes","United Kingdom",2020-03-27,2020-03-25,"QR008","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","50 to 59","Wairarapa","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-19,"Male","30 to 39","Wairarapa","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Female","30 to 39","Wairarapa","Yes","United Kingdom",2020-03-17,2020-03-17,"NZ411","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","30 to 39","Wairarapa","Yes","Australia",2020-03-20,2020-03-20,"QF161","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","70+","Capital and Coast","Yes","Australia",2020-03-18,2020-03-18,"unknown","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","70+","Capital and Coast","Yes","Australia",2020-03-18,2020-03-18,"unknown","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","20 to 29","Capital and Coast","Yes","United Arab Emirates",2020-03-22,2020-03-22,"NZ429","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","20 to 29","Capital and Coast","Yes","United Arab Emirates",2020-03-22,2020-03-22,"NZ429","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-19,"Female","30 to 39","Capital and Coast","Yes","United Kingdom",2020-03-13,NA,"NZ443","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","60 to 69","Capital and Coast","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","20 to 29","Capital and Coast","Yes","Australia",2020-03-25,2020-03-25,"NZ443","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","50 to 59","Capital and Coast","Yes","United States of America",2020-03-20,2020-03-19,"NZ409","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","30 to 39","Capital and Coast","Yes","United Arab Emirates",2020-03-18,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","60 to 69","Capital and Coast","Yes","United States of America",2020-03-19,2020-03-19,"NZ409","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","50 to 59","Capital and Coast","Yes","United States of America",2020-03-19,2020-03-19,"NZ409","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","60 to 69","Capital and Coast","Yes","New Zealand",2020-03-19,2020-03-19,"NZ 413","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","50 to 59","Capital and Coast","Yes","United States of America",2020-03-19,2020-03-19,"NZ 413","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","50 to 59","Capital and Coast","Yes","United States of America",2020-03-19,2020-03-17,"NZ5","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","60 to 69","Capital and Coast","Yes","United States of America",2020-03-20,2020-03-20,"NZ0407","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","50 to 59","Capital and Coast","Yes","United States of America",2020-03-20,2020-03-20,"NZ0407","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","20 to 29","Capital and Coast","Yes","New Zealand",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","30 to 39","Capital and Coast","Yes","United Arab Emirates",2020-03-21,2020-03-21,"NZ433 AKL-WLG","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","20 to 29","Capital and Coast","Yes","United Kingdom",2020-03-19,2020-03-19,"JQ253","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","50 to 59","Capital and Coast","Yes","United States of America",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-18,"Male","50 to 59","Capital and Coast","Yes","United Arab Emirates",2020-03-14,2020-03-14,"QF161","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","40 to 49","Capital and Coast","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","40 to 49","Capital and Coast","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-17,"Male","40 to 49","Capital and Coast","Yes","United Kingdom",2020-03-14,2020-03-13,"SQ247","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","50 to 59","Capital and Coast","Yes","United Arab Emirates",2020-03-17,2020-03-17,"NZ433","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","20 to 29","Capital and Coast","Yes","United Kingdom",2020-03-21,2020-03-20,"NZ433","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","40 to 49","Capital and Coast","Yes","United States of America",2020-03-16,2020-03-16,"NZ 421","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","30 to 39","Capital and Coast","Yes","United Kingdom",2020-03-19,2020-03-19,"NZ409","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","10 to 14","Capital and Coast","No",NA,NA,2020-03-23,"JS278","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-16,"Male","30 to 39","Capital and Coast","Yes","United States of America",2020-03-14,2020-03-14,"AA83","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-16,"Male","70+","Capital and Coast","Yes","United States of America",2020-03-14,2020-03-14,"AA83","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","30 to 39","Capital and Coast","Yes","Australia",2020-03-21,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","30 to 39","Capital and Coast","No",NA,NA,2020-03-23,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","70+","Capital and Coast","No",NA,NA,2020-03-25,"NZ8872","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","20 to 29","Capital and Coast","Yes","United Kingdom",2020-03-22,2020-03-22,"NZ425","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","20 to 29","Capital and Coast","Yes","New Zealand",2020-03-24,2020-03-24,"QF0171","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","20 to 29","Capital and Coast","Yes","Australia",2020-03-21,2020-03-21,"EK5047","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","20 to 29","Capital and Coast","Yes","New Zealand",2020-03-24,2020-03-24,"NZ411","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","15 to 19","Capital and Coast","Yes","United Kingdom",2020-03-24,2020-03-24,"NZ5374","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","40 to 49","Capital and Coast","Yes","Australia",2020-03-24,2020-03-24,"QF161","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","60 to 69","Capital and Coast","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","60 to 69","Capital and Coast","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","60 to 69","Capital and Coast","Yes","United States of America",2020-03-23,2020-03-23,"NZ409","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","30 to 39","Capital and Coast","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Male","60 to 69","Capital and Coast","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","20 to 29","Capital and Coast","Yes","Australia",2020-03-21,2020-03-21,"QF161","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","50 to 59","Capital and Coast","Yes","United States of America",2020-03-20,2020-03-20,"NZ0241","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","40 to 49","Capital and Coast","Yes","United States of America",2020-03-20,2020-03-20,"WL0241","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","50 to 59","Capital and Coast","Yes","United States of America",NA,2020-03-19,"NZ409","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-19,"Male","60 to 69","Capital and Coast","Yes","United Kingdom",2020-03-15,2020-03-15,"QF161","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-14,"Male","60 to 69","Capital and Coast","Yes","Australia",2020-03-13,2020-03-13,"NZ838","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","20 to 29","Capital and Coast","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","50 to 59","Capital and Coast","No",NA,NA,2020-03-23,"NZ8876","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","50 to 59","Capital and Coast","No",NA,NA,2020-03-23,"NZ8876","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","40 to 49","Capital and Coast","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-02,"Female","20 to 29","Hutt Valley",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","60 to 69","Hutt Valley","Yes","Singapore",2020-03-19,2020-03-20,"NZ441","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","60 to 69","Hutt Valley","Yes","Singapore",2020-03-19,2020-03-20,"NZ441","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-19,"Male","50 to 59","Hutt Valley","Yes","Australia",2020-03-14,2020-03-14,"EK5047","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","40 to 49","Hutt Valley","Yes","Australia",2020-03-13,2020-03-13,"VA171","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","50 to 59","Hutt Valley","No",NA,NA,2020-03-08,"NZ449","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-19,"Male","50 to 59","Hutt Valley","Yes","United States of America",2020-03-05,2020-03-13,"NZ5823","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","20 to 29","Hutt Valley","Yes","United Arab Emirates",2020-03-21,2020-03-21,"NZ457","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","40 to 49","Hutt Valley","Yes","United Arab Emirates",2020-03-21,2020-03-20,"EK0448","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","50 to 59","Hutt Valley","No",NA,NA,2020-03-25,"NZ5386","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","50 to 59","Hutt Valley","Yes","Indonesia",2020-03-19,2020-03-19,"NZ409","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","30 to 39","Hutt Valley","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","40 to 49","Hutt Valley","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","30 to 39","Hutt Valley","Yes","United Kingdom",2020-03-22,2020-03-22,"JQ253","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","70+","Nelson Marlborough",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","70+","Nelson Marlborough",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","30 to 39","Nelson Marlborough","Yes","Australia",2020-03-18,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","30 to 39","Nelson Marlborough","Yes","Australia",2020-03-18,2020-03-18,"NZ8205 (s8C)","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Male","60 to 69","Nelson Marlborough","Yes","Australia",2020-03-08,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Male","30 to 39","Nelson Marlborough",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-20,"Female","60 to 69","Nelson Marlborough","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","20 to 29","Nelson Marlborough","Yes","New Zealand",2020-03-19,2020-03-20,"NZ5069","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","60 to 69","Nelson Marlborough","Yes","United States of America",2020-03-16,2020-03-16,"NZ5065","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","60 to 69","Nelson Marlborough","Yes","Hong Kong (Special Administrative Region)",2020-03-05,2020-03-05,"Cathay Pacific","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","50 to 59","Nelson Marlborough","Yes","Australia",2020-03-18,2020-03-18,"NZ8205","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","20 to 29","Nelson Marlborough","Yes","Australia",2020-03-23,2020-03-23,"EK0412","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-20,"Female","20 to 29","Nelson Marlborough","Yes","United States of America",2020-03-16,2020-03-16,"NZ5065","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","50 to 59","Nelson Marlborough","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","20 to 29","Nelson Marlborough","Yes","Australia",2020-03-19,2020-03-19,"NZ8857","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","30 to 39","Nelson Marlborough","Yes","United Arab Emirates",2020-03-16,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","50 to 59","Nelson Marlborough","Yes","Australia",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","50 to 59","Nelson Marlborough","Yes","Singapore",2020-03-18,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","70+","Nelson Marlborough","Yes","Australia",2020-03-19,2020-03-20,"NZ5071 (Seat 9B)","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","20 to 29","Nelson Marlborough","Yes","Australia",2020-03-23,2020-03-23,"EK0412","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","70+","Nelson Marlborough","Yes","Australia",2020-03-19,2020-03-20,"NZ5071 (seat 9A)","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","50 to 59","Nelson Marlborough","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","20 to 29","Nelson Marlborough","Yes","Switzerland",2020-03-20,2020-03-20,"NZ8321","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,NA,"20 to 29","Nelson Marlborough","Yes","New Zealand",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","40 to 49","Canterbury","Yes","Australia",2020-03-24,2020-03-24,"QF133","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","40 to 49","Canterbury","Yes","Australia",2020-03-24,2020-03-24,"QF133","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","20 to 29","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","50 to 59","Canterbury","Yes","Singapore",2020-03-20,2020-03-19,"SQ297","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-17,"Female","40 to 49","Canterbury","Yes","United Kingdom",2020-03-16,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","20 to 29","Canterbury","Yes","France",2020-03-20,2020-03-20,"QF1033","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Male","20 to 29","Canterbury","Yes","Switzerland",2020-03-18,2020-03-18,"EY4689","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","70+","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","40 to 49","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Female","60 to 69","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-21,"Male","60 to 69","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","60 to 69","Canterbury","Yes","Egypt",2020-03-18,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-20,"Female","50 to 59","Canterbury","Yes","United States of America",2020-03-17,2020-03-17,"NZ523","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","30 to 39","Canterbury","Yes","Australia",2020-03-20,2020-03-19,"EK412","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","30 to 39","Canterbury","Yes","France",2020-03-16,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","60 to 69","Canterbury","Yes","Australia",2020-03-23,2020-03-23,"VA0097","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","20 to 29","Canterbury","Yes","United States of America",2020-03-21,2020-03-21,"NZ527","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","20 to 29","Canterbury","Yes","United States of America",2020-03-20,2020-03-19,"UA0917","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-20,"Male","20 to 29","Canterbury","Yes","United Kingdom",2020-03-18,2020-03-17,"SQ297","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","50 to 59","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","20 to 29","Canterbury","Yes","United Kingdom",NA,2020-03-11,"Emirates-CHCH","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","50 to 59","Canterbury","Yes","Viet Nam",2020-03-13,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","20 to 29","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","20 to 29","Canterbury","Yes","Singapore",2020-03-18,2020-03-17,"SQ297","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","20 to 29","Canterbury","Yes","United Kingdom",2020-03-20,2020-03-20,"EK0412","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","50 to 59","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","20 to 29","Canterbury","Yes","Australia",2020-03-24,2020-03-24,"EK412","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","50 to 59","Canterbury","Yes","United States of America",2020-03-19,2020-03-19,"NZ7","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","20 to 29","Canterbury","Yes","Canada",2020-03-18,2020-03-18,"NZ541 (3f)","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","30 to 39","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","20 to 29","Canterbury","Yes","United Kingdom",2020-03-23,2020-03-23,"EK412 from Sydney","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","20 to 29","Canterbury","Yes","Ireland",2020-03-20,2020-03-20,"JQ233","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","20 to 29","Canterbury","Yes","United Kingdom",2020-03-20,2020-03-19,"EK412","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","30 to 39","Canterbury","Yes","Australia",2020-03-15,2020-03-14,"QF139","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","1 to 4","Canterbury","Yes","Australia",2020-03-15,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","15 to 19","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","20 to 29","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","20 to 29","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","50 to 59","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,NA,"40 to 49","Canterbury","Yes","United Kingdom",2020-03-22,2020-03-20,"TG917-seat numb 67K","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","30 to 39","Canterbury","Yes","Japan",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-18,"Male","50 to 59","Canterbury","Yes","United States of America",2020-03-14,2020-03-15,"Air NZ 535","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","60 to 69","South Canterbury","Yes","United States of America",2020-03-17,2020-03-17,"NZ675 seat 24 A & B","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","60 to 69","South Canterbury","Yes","United States of America",2020-03-17,2020-03-17,"NZ675","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","20 to 29","South Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","30 to 39","Canterbury","Yes","United States of America",2020-03-21,2020-04-21,"NZ527","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","60 to 69","South Canterbury","Yes","England",NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","20 to 29","South Canterbury","Yes",NA,2020-03-20,2020-03-19,"OA4326","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","70+","South Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","1 to 4","South Canterbury",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","40 to 49","South Canterbury",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","50 to 59","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","30 to 39","South Canterbury","Yes","England",2020-03-20,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Male","60 to 69","West Coast","No",NA,NA,2020-03-17,"JQ27","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","20 to 29","West Coast","Yes","Australia",2020-03-12,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","70+","West Coast","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-17,"Male","40 to 49","Southern","Yes","Germany",2020-03-08,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","60 to 69","Southern","Yes","United Kingdom",2020-03-16,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-19,"Female","30 to 39","Southern","Yes","England",2020-03-17,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","40 to 49","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","20 to 29","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","40 to 49","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","20 to 29","Southern","Yes",NA,2020-03-25,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","30 to 39","Southern","Yes","United Arab Emirates",2020-03-19,2020-03-19,"NZ677","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","30 to 39","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","20 to 29","Southern","Yes","United Kingdom",2020-03-20,2020-03-20,"EK412","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","50 to 59","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","50 to 59","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","50 to 59","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Female","30 to 39","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","30 to 39","Southern","Yes","Austria",2020-03-19,2020-03-19,"JQ285","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-17,"Male","15 to 19","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","15 to 19","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","50 to 59","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","50 to 59","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","40 to 49","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","50 to 59","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","20 to 29","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","60 to 69","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","60 to 69","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","20 to 29","Southern","Yes","United Arab Emirates",2020-03-21,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","60 to 69","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","20 to 29","Southern","Yes","Switzerland",2020-03-23,2020-03-23,"AKL-DND NZ671","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","60 to 69","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","70+","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","20 to 29","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","40 to 49","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-22,"Female","20 to 29","Southern","Yes","United States of America",2020-03-19,2020-03-19,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","20 to 29","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","20 to 29","Southern","Yes","United Kingdom",2020-03-23,2020-03-21,"EK006","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","20 to 29","Southern","Yes","Germany",2020-03-19,2020-03-21,"NZ625","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","60 to 69","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","20 to 29","Southern","Yes","Germany",2020-03-20,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","30 to 39","Southern","Yes","United Kingdom",2020-03-19,2020-03-19,"NZ671","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","10 to 14","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","70+","Southern","Yes","Switzerland",2020-03-16,2020-03-16,"JQ295","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","50 to 59","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","15 to 19","Southern","Yes","England",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Male","20 to 29","Southern","Yes","Australia",2020-03-19,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-18,"Male","60 to 69","Southern","Yes","Australia",2020-03-13,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","60 to 69","Southern",NA,NA,NA,2020-03-22,"JQ293","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","20 to 29","Southern","Yes","Australia",2020-03-23,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","30 to 39","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-13,"Female","30 to 39","Southern","Yes","New Zealand",2020-03-10,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-20,"Male","20 to 29","Southern","Yes","Switzerland",2020-03-18,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-24,"Female","30 to 39","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-02,"Male","15 to 19","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-20,"Male","40 to 49","Southern","Yes","United Kingdom",NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","50 to 59","Southern","Yes",NA,2020-03-23,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","50 to 59","Southern","Yes","Australia",2020-03-23,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","40 to 49","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Male","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","60 to 69","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","40 to 49","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-02-28,"Male","40 to 49","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","70+","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","60 to 69","Southern","Yes","Argentina",2020-03-22,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","40 to 49","Southern","Yes",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","60 to 69","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Female","30 to 39","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-23,"Male","30 to 39","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","60 to 69","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","60 to 69","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","40 to 49","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-02-28,"Female","40 to 49","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-18,"Male","40 to 49","Southern","Yes","Australia",2020-03-10,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","50 to 59","Southern","Yes",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","10 to 14","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","15 to 19","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","50 to 59","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","40 to 49","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","40 to 49","Southern","Yes","France",2020-03-20,2020-03-19,"NZ615","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","70+","Southern","Yes","United States of America",2020-03-21,2020-03-21,"NZ619 seat18A","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Female","20 to 29","Southern","Yes","United Kingdom",2020-03-21,2020-03-20,"EK5121","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","60 to 69","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Male","50 to 59","Southern",NA,NA,NA,2020-03-20,"NZ5717","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","50 to 59","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Female","30 to 39","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Male","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","30 to 39","Southern","Yes","United States of America",2020-03-22,2020-03-23,"NZ639","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","15 to 19","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","40 to 49","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","40 to 49","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-31,"Female","20 to 29","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-29,"Female","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-01,"Male","30 to 39","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-25,"Male","60 to 69","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-04-02,"Female","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Female","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-27,"Male","50 to 59","Southern","Yes",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-30,"Male","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Female","20 to 29","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-28,"Male","20 to 29","Southern",NA,NA,NA,2020-03-16,"NZ623","confirmed","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Confirmed",2020-04-02
+2020-03-26,"Female","60 to 69","Northland","Yes","United States of America",2020-03-19,2020-03-18,"LAX","probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-26,"Female","60 to 69","Waitemata",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-04-01,"Female","20 to 29","Waitemata","Yes",NA,2020-03-21,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-04-01,"Male","60 to 69","Waitemata",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-27,"Male","20 to 29","Waitemata","Unknown",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-30,"Male","20 to 29","Waitemata","Yes",NA,2020-03-20,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-31,"Male","40 to 49","Waitemata",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-30,"Male","20 to 29","Waitemata","Unknown",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-29,"Female","20 to 29","Waitemata","Unknown",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-26,"Female","60 to 69","Waitemata","Yes","Indonesia",2020-03-15,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-05,"Female","70+","Waitemata","Yes","United States of America",2020-02-25,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-04-02,"Male","30 to 39","Waitemata","Unknown",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-25,"Female","20 to 29","Waitemata",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-29,"Female","70+","Waitemata","Yes","Australia",2020-03-19,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-31,"Female","10 to 14","Waitemata",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-29,"Male","15 to 19","Waitemata","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-26,"Female","5 to 9","Waitemata",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-04-01,"Female","70+","Auckland",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-26,"Female","30 to 39","Auckland","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-22,"Female","15 to 19","Auckland","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-29,"Male","60 to 69","Auckland","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-27,"Female","50 to 59","Auckland","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-19,"Female","50 to 59","Auckland","Yes","United Kingdom",2020-03-17,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-31,"Male","60 to 69","Auckland","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-28,"Female","40 to 49","Auckland","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-31,"Male","20 to 29","Auckland",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-19,NA,"50 to 59","Auckland","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-04-01,"Female","10 to 14","Auckland","Unknown",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-31,"Male","20 to 29","Auckland","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-31,"Female","20 to 29","Auckland","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-04-02,"Male","20 to 29","Auckland","Yes",NA,2020-03-19,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-28,"Female","<1","Counties Manukau",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-05,"Male","70+","Counties Manukau","Yes","Qatar",2020-02-23,2020-02-22,"QR0920","probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-30,"Male","50 to 59","Counties Manukau","Unknown",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-30,"Male","1 to 4","Counties Manukau","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-04-01,"Female","20 to 29","Counties Manukau",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-04-01,"Female","20 to 29","Counties Manukau",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-30,"Male","60 to 69","Counties Manukau","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-04-01,"Female","1 to 4","Waikato",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-31,"Male","30 to 39","Waikato","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-22,"Male","50 to 59","Waikato","Yes","United Arab Emirates",2020-03-16,2020-03-15,"BEKA76","probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-25,"Female","20 to 29","Waikato","Yes","Australia",2020-03-01,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-26,"Female","30 to 39","Bay of Plenty","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-24,"Female","20 to 29","Bay of Plenty",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-26,"Female","15 to 19","Taranaki","Yes","United Kingdom",2020-03-22,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-25,"Male","20 to 29","MidCentral","No",NA,NA,2020-03-25,"NZ526","probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-29,"Male","30 to 39","MidCentral","Yes","Australia",2020-03-19,2020-03-19,"NZ824","probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-04-01,"Male","20 to 29","Whanganui","Yes","Philippines",2020-03-19,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-22,"Male","60 to 69","Capital and Coast","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-26,"Female","50 to 59","Capital and Coast","Yes","United States of America",2020-03-19,2020-03-19,"NZ409","probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-22,"Female","40 to 49","Capital and Coast","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-04-01,"Male","30 to 39","Capital and Coast",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-04-01,"Female","30 to 39","Capital and Coast",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-30,NA,"10 to 14","Capital and Coast",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-19,"Male","70+","Capital and Coast","Yes","Australia",NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-23,"Female","60 to 69","Capital and Coast","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-23,"Male","15 to 19","Hutt Valley","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-24,"Female","50 to 59","Nelson Marlborough",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-04-01,"Male","50 to 59","Nelson Marlborough","Yes","Singapore",2020-03-18,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-30,"Female","20 to 29","Nelson Marlborough","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-27,"Female","30 to 39","Canterbury","Yes","United Kingdom",2020-03-19,2020-03-18,"EK412","probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-27,"Male","30 to 39","Canterbury","Yes","United Kingdom",2020-03-19,2020-03-18,"EK412","probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-28,"Female","20 to 29","Canterbury","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-22,"Female","15 to 19","Canterbury","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-26,"Female","20 to 29","Canterbury","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-26,"Female","40 to 49","Canterbury","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-27,"Female","40 to 49","Canterbury","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-28,"Female","20 to 29","Canterbury","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-25,"Female","40 to 49","Canterbury","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-29,"Female","70+","South Canterbury","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-17,"Female","50 to 59","Southern","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-04-01,"Male","20 to 29","Southern","Yes","Australia",NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-31,"Female","10 to 14","Southern","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02
+2020-03-31,"Female","1 to 4","Southern","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19_case_list_2_april_2020.xlsx Probable",2020-04-02

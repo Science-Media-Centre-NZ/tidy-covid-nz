@@ -1,0 +1,246 @@
+---
+title: "tidy MoH Covid-19 case list data"
+author: "Amy Whitehead"
+date: ``
+output: html_document
+---
+
+
+```{r require libaries}
+require(tidyverse)
+require(readxl)
+require(magrittr)
+```
+
+
+```{r functions for reading case lists}
+# tidy a single excel spreadsheet sheet
+readSheet <- function(
+  myFile, # the name of the file
+  mySheet, # the name of the sheet
+  mySkip, # the number of rows to skip
+  myDate # the date of the data release (ideally read from the filename)
+){
+  
+  # read data from each sheet
+  myOut <- read_xlsx(myFile,sheet = mySheet,skip = mySkip) %>% 
+    mutate(
+      # add the case type based on the sheet name - may need checking if MoH naming goes rogue
+      caseType = tolower(mySheet),
+      # add the file name for traceability
+      datasource = paste(myFile,mySheet),
+      # add the date the file was made public by MoH
+      releaseDate = myDate) %>% 
+    # remove any completely blank columns
+    discard(~all(is.na(.x))) %>%
+    map_df(~.x)
+  
+  # get columns names and standardise
+  myNames <- tibble(originalNames = c(as.character(names(myOut)))) %>% 
+    mutate(standardNames = case_when(tolower(originalNames) %in% c("report date","reportdate") ~ "date of report",
+                                     grepl("overseas",tolower(originalNames)) ~ "international travel",
+                                     grepl("last city",tolower(originalNames)) ~ "last city before return",
+                                     grepl("last country",tolower(originalNames)) ~ "last country before return",
+                                     grepl("departure",tolower(originalNames)) ~ "flight departure date",
+                                     tolower(originalNames) %in% "flight no" ~ "flight number",
+                                     TRUE ~ tolower(originalNames)),
+           filename = myFile,
+           sheetname = mySheet,
+           skippedRows = mySkip) 
+  
+  # convert all column names to standardised names for consistency
+  myOut %<>% setNames(myNames$standardNames) 
+  
+  # convert dates to date format if not already (implies there is non-date info in column)
+  if(is.character(myOut$`date of report`)){
+    myOut %<>% 
+      mutate(`date of report` = parse_date(`date of report`,format = "%d/%m/%Y"))
+  } else { # ensure date and not datetime
+    myOut %<>% 
+      mutate(`date of report` = parse_date(as.character(`date of report`)))
+  }
+  
+  return(list(tidyData = myOut,
+              nameChanges = myNames))
+} # end readSheet
+
+
+# function to read and combine all caselist data in excel spreadsheet
+getCaseList <- function(myDir = "", # the directory that the file is in
+                        myFile, # the name of the file
+                        myDate, # the date of file release (ideally should be read from filename)
+                        mySkip=3 # the number of rows to skip
+){
+  
+  tryCatch({
+    # identify number and names of sheets available in spreadsheet
+    theSheets <- excel_sheets(paste0(myDir,myFile))
+    
+    # read data from available sheets
+    myOut <- map(theSheets, function(x) {
+      readSheet(paste0(myDir,myFile),mySheet = x, mySkip, myDate)$tidyData
+    }) %>% 
+      # combine tidy data from multiple sheets
+      bind_rows() 
+    
+    # combine columns names changes
+    myNames <- map(theSheets, function(x) {
+      readSheet(paste0(myDir,myFile),mySheet = x, mySkip, myDate)$nameChanges
+    }) %>% bind_rows %>% 
+      distinct()
+    
+    # return list with tidyData and record of column name changes
+    return(list(tidyData = myOut,
+                nameChanges = myNames))
+  }, error = function(x){
+    # print message if data extraction failed
+    message(paste(myFile, "failed"))
+    return(NULL)
+    
+  } # end getCaseList
+  
+  )
+}
+
+# function to save caselist data to csv files
+saveCaseList <- function(
+  myDir, # directory to save files
+  myFile, # name of MoH files
+  myDate # date of MoH data release
+){
+  # save tidy data
+  myFile$tidyData %>% 
+    write.csv(paste0(myDir,"caselist_",myDate,".csv"),row.names = F)
+  
+  # save record of changes to column names
+  myFile$nameChanges %>% 
+    write.csv(paste0(myDir,"columnNames_",myDate,".csv"),row.names = F)
+}
+
+```
+
+```{r do bulk tidying of existing files}
+
+# read csv file with all MoH filenames and manually translated release dates
+## would be nice if this could be updated automatically 
+## but inconsistent date-formating :(
+filenames <- read.csv("data/moh/caselists/raw/filenames.csv",stringsAsFactors = F) %>% 
+  mutate(releasedate = parse_date(releasedate,format="%d/%m/%Y")) %>% 
+  arrange(releasedate)
+
+# tidy all available files
+allCaseLists <- map(1:nrow(filenames),function(x){
+  getCaseList(myDir = "data/moh/caselists/raw/",
+              myFile = filenames$filenames[x],
+              myDate = filenames$releasedate[x])
+}) %>% setNames(filenames$filenames)
+
+# combine data separate spreadsheets for 28 March 
+allCaseLists[["covid-19-confirmed-cases-28mar20.xlsx"]]$tidyData <- bind_rows(
+  allCaseLists[["covid-19-confirmed-cases-28mar20.xlsx"]]$tidyData %>% 
+    mutate(casetype = "confirmed"),
+  allCaseLists[["covid-19-probable-cases-28mar20.xlsx"]]$tidyData %>% 
+    mutate(casetype = "probable")
+)
+
+allCaseLists[["covid-19-confirmed-cases-28mar20.xlsx"]]$nameChanges <- bind_rows(
+  allCaseLists[["covid-19-confirmed-cases-28mar20.xlsx"]]$nameChanges,
+  allCaseLists[["covid-19-probable-cases-28mar20.xlsx"]]$nameChanges,
+  tibble(standardNames = "last country before return",
+         comments = "Manually added")
+)
+
+# add last country of return manually
+allCaseLists[["covid-19-confirmed-cases-28mar20.xlsx"]]$tidyData %<>% 
+  mutate(`last country before return` = case_when(grepl("Adelaide|Melbourne|Perth|Sydney|Brisbane|Gold Coast",
+                                                        `last city before return`) ~ "Australia",
+                                                  grepl("Los Angeles|New York|Houston|Colorado|Atlanta|Seattle|
+                                                        California|Chicago|Orlando|San Diego|San Francisco|Hawai'i|
+                                                        New Jersey",
+                                                        `last city before return`) ~ "United States of America",
+                                                  grepl("Dubai|Abu Dhabi",`last city before return`) ~ 
+                                                    "United Arab Emirates",
+                                                  grepl("[Ll]ondon|Manchester|Southampton|Preston",
+                                                        `last city before return`) ~ "England",
+                                                  grepl("Edinburgh",`last city before return`) ~ "Scotland",
+                                                  grepl("Frankfurt",`last city before return`) ~ "Germany",
+                                                  grepl("Dublin",`last city before return`) ~ "Ireland",
+                                                  grepl("Tokyo",`last city before return`) ~ "Japan",
+                                                  grepl("Doha",`last city before return`) ~ "Qatar",
+                                                  grepl("Sun Peak|Vancouver|British Columbia",
+                                                        `last city before return`) ~ "Canada",
+                                                  grepl("Zurich|Geneva",`last city before return`) ~ "Switzerland",
+                                                  grepl("Bangkok",`last city before return`) ~ "Thailand",
+                                                  grepl("Bali|Jakarta",`last city before return`) ~ "Indonesia",
+                                                  grepl("Buenos Aires",`last city before return`) ~ "Argentina",
+                                                  grepl("Majorca|Malaga|Madrid",`last city before return`) ~ "Spain",
+                                                  grepl("Tirol",`last city before return`) ~ "Austria",
+                                                  grepl("Paris|Meribel",`last city before return`) ~ "France",
+                                                  grepl("Phnom Penh",`last city before return`) ~ "Cambodia",
+                                                  grepl("Kuala Lumpur",`last city before return`) ~ "Malaysia",
+                                                  grepl("Cairo",`last city before return`) ~ "Egypt",
+                                                  grepl("Singapore",`last city before return`) ~ "Singapore",
+                                                  grepl("Delhi",`last city before return`) ~ "India",
+                                                  grepl("Italy",`last city before return`) ~ "Italy",
+                                                  grepl("Auckland|Christchurch",`last city before return`) ~ 
+                                                    "New Zealand",
+                                                  !is.na(`last city before return`) ~ "Unknown country"
+                                                  )
+         )
+# remove unneeded list element for 28 March
+allCaseLists[["covid-19-probable-cases-28mar20.xlsx"]] <- NULL
+
+# fix skip errors for 29 March
+allCaseLists[["covid-19-confirmed-probable-cases-29mar20.xlsx"]] <- 
+  getCaseList(myDir = "data/moh/caselists/raw/",
+              myFile = "covid-19-confirmed-probable-cases-29mar20.xlsx",
+              myDate = parse_date("2020-03-29"),
+              mySkip = 0)
+
+# fix date formatting error for 18 April in first row of both sheets
+allCaseLists[["web-covid-confprob_20200418-2.xlsx"]]$tidyData <-
+  allCaseLists[["web-covid-confprob_20200418-2.xlsx"]]$tidyData %>% 
+  mutate(`date of report` = case_when(is.na(`date of report`) ~ parse_date("2020-04-18"),
+                                      TRUE ~ `date of report`))
+
+# remove 21 april for now until clear why there are two files
+allCaseLists[[grep("21april",names(allCaseLists))]] <- NULL
+
+# check the final names in the tidy output for errors
+map(1:length(allCaseLists),function(x) {
+  sort(names(allCaseLists[[x]]$tidyData))
+  }) %>% unique()
+
+# check class of columns
+map(1:length(allCaseLists),function(x) {
+  unlist(lapply(allCaseLists[[x]]$tidyData,class))
+  }) %>% unique()
+
+# check class of columns
+map(1:length(allCaseLists),function(x) {
+  summary(allCaseLists[[x]]$tidyData$`date of report`)
+  }) 
+
+# save allCaseLists to csv files
+map(names(allCaseLists),function(x){
+  saveCaseList(myDir = "data/moh/caselists/tidy/",
+               myFile = allCaseLists[[x]], 
+               myDate = filenames %>% 
+                 filter(filenames %in% x) %>% 
+                 pull(releasedate))
+})
+
+```
+
+```{r suggested workflow for tidying single file}
+
+getCaseList(myDir = "data/moh/caselists/raw/",
+            myFile = "covid-cases-5may2020.xlsx",
+            myDate = "2020-05-05") %>% 
+
+saveCaseList(myDir = "data/moh/caselists/tidy/",
+             myFile = ., 
+             myDate = "2020-05-05") 
+
+```
+

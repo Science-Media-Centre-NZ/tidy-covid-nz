@@ -1,0 +1,26 @@
+"originalNames","standardNames","filename","sheetname","skippedRows","comments"
+"Report Date","date of report","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx","COVID19 MoH media",3,NA
+"Sex","sex","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx","COVID19 MoH media",3,NA
+"Age group","age group","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx","COVID19 MoH media",3,NA
+"DHB","dhb","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx","COVID19 MoH media",3,NA
+"Overseas","international travel","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx","COVID19 MoH media",3,NA
+"Last City before NZ","last city before return","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx","COVID19 MoH media",3,NA
+"Flight No","flight number","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx","COVID19 MoH media",3,NA
+"Departure date","flight departure date","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx","COVID19 MoH media",3,NA
+"Arrival date","arrival date","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx","COVID19 MoH media",3,NA
+"caseType","casetype","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx","COVID19 MoH media",3,NA
+"datasource","datasource","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx","COVID19 MoH media",3,NA
+"releaseDate","releasedate","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx","COVID19 MoH media",3,NA
+"Report Date","date of report","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx","Sheet1",3,NA
+"Sex","sex","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx","Sheet1",3,NA
+"Age group","age group","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx","Sheet1",3,NA
+"DHB","dhb","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx","Sheet1",3,NA
+"Overseas","international travel","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx","Sheet1",3,NA
+"Last City before NZ","last city before return","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx","Sheet1",3,NA
+"Flight No","flight number","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx","Sheet1",3,NA
+"Departure date","flight departure date","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx","Sheet1",3,NA
+"Arrival date","arrival date","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx","Sheet1",3,NA
+"caseType","casetype","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx","Sheet1",3,NA
+"datasource","datasource","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx","Sheet1",3,NA
+"releaseDate","releasedate","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx","Sheet1",3,NA
+NA,"last country before return",NA,NA,NA,"Manually added"

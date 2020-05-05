@@ -1,0 +1,452 @@
+"date of report","sex","age group","dhb","international travel","last city before return","flight number","flight departure date","arrival date","casetype","datasource","releasedate","last country before return"
+2020-03-28,"Female","30 to 39","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-28,"Female","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","15 to 19","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","40 to 49","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","20 to 29","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","70+","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","40 to 49","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","60 to 69","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","20 to 29","Auckland","Yes",NA,NA,NA,2020-03-21,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","70+","Bay of Plenty","No",NA,"NZ674",2020-03-17,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","20 to 29","Bay of Plenty","Yes","Dubai","NZ8141",2020-03-23,2020-03-23,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-27,"Male","60 to 69","Canterbury","Yes","Adelaide, Melbourne","VA97",2020-03-23,2020-03-23,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-27,"Female","50 to 59","Capital and Coast","No",NA,"NZ8876",2020-03-23,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","50 to 59","Capital and Coast","No",NA,"NZ8876",2020-03-23,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","20 to 29","Capital and Coast",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","40 to 49","Counties Manukau","Yes","Los Angeles",NA,NA,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-27,"Female","30 to 39","Counties Manukau",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","30 to 39","Counties Manukau",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","50 to 59","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","20 to 29","Hawke's Bay","Yes","London","NZ5005",2020-03-22,2020-03-22,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-27,"Male","60 to 69","Hutt Valley","Yes",NA,"NZ441",2020-03-20,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","60 to 69","Hutt Valley",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","30 to 39","Hutt Valley","Yes","Manchester","JQ253",2020-03-22,2020-03-22,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-27,"Female","50 to 59","MidCentral","Yes","Los Angeles",NA,NA,2020-03-12,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-27,"Female","20 to 29","South Canterbury","Yes","Auckland","OA4326",2020-03-19,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"New Zealand"
+2020-03-27,"Male","50 to 59","Southern","Yes",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","60 to 69","Southern","Yes","Los Angeles, Miami","NZ675",2020-03-17,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-27,"Male","30 to 39","Southern","Yes","Orlando, New York, Los Angeles","NZ639",2020-03-23,2020-03-22,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-27,"Female","60 to 69","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","20 to 29","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","40 to 49","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","20 to 29","Southern","Yes","London","EK5121",2020-03-20,2020-03-21,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-27,"Male","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","20 to 29","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","50 to 59","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","50 to 59","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","15 to 19","Taranaki","Yes","Dubai",NA,NA,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-27,"Female","30 to 39","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","40 to 49","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","15 to 19","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","50 to 59","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","15 to 19","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","20 to 29","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Female","30 to 39","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","60 to 69","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,NA,NA,"Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","20 to 29","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","30 to 39","Waitemata","Yes",NA,NA,NA,2020-03-06,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-27,"Male","20 to 29","Whanganui","Yes","Chicago","NZ6067",2020-03-22,2020-03-23,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-27,"Male","20 to 29","Whanganui","Yes","Chicago","NZ6067",2020-03-22,2020-03-23,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-27,"Male","20 to 29","Whanganui","Yes","Chicago","NZ6707",2020-03-22,2020-03-23,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-26,"Female","30 to 39","Auckland","Yes","Dublin",NA,NA,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Ireland"
+2020-03-26,"Female","30 to 39","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","70+","Auckland","Yes","Los Angeles",NA,NA,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-26,"Female","40 to 49","Auckland","Yes",NA,NA,NA,2020-03-02,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","15 to 19","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","30 to 39","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","20 to 29","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","20 to 29","Bay of Plenty","Yes",NA,"QR920",2020-03-17,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","20 to 29","Bay of Plenty","Yes",NA,NA,NA,2020-03-24,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","30 to 39","Canterbury","Yes","Tokyo",NA,NA,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Japan"
+2020-03-26,"Female","30 to 39","Canterbury","Yes","Sydney","EK412",2020-03-19,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-26,"Male","20 to 29","Canterbury","Yes","Orlando","UA917",2020-03-19,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-26,"Female","30 to 39","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","60 to 69","Canterbury","Yes",NA,"NZ884",2020-03-18,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","1 to 4","Canterbury","Yes","Sydney",NA,NA,2020-03-15,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-26,"Female","30 to 39","Canterbury","Yes","Sydney","QF139",2020-03-14,2020-03-15,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-26,"Male","50 to 59","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","20 to 29","Canterbury","Yes",NA,NA,NA,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","20 to 29","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","40 to 49","Capital and Coast","Yes","Sydney","QF161",2020-03-24,2020-03-24,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-26,"Female","20 to 29","Capital and Coast","Yes",NA,NA,NA,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","50 to 59","Counties Manukau","Yes","Houston",NA,NA,2020-03-22,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-26,"Male","30 to 39","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","60 to 69","Counties Manukau","Yes","Doha",NA,NA,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Qatar"
+2020-03-26,"Female","60 to 69","Hawke's Bay","Yes","Sydney","NZ5027",2020-03-20,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-26,"Male","50 to 59","Hawke's Bay","Yes","Sydney","NZ5027",2020-03-20,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-26,"Male","70+","Hawke's Bay",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","20 to 29","Hawke's Bay","Yes","Los Angeles",NA,NA,2020-03-21,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-26,"Female","30 to 39","Hutt Valley","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","40 to 49","Hutt Valley","Yes","Dubai","EK0448",2020-03-20,2020-03-21,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-26,"Female","20 to 29","Hutt Valley","Yes","Abu Dhabi","NZ457",2020-03-21,2020-03-21,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-26,"Female","50 to 59","Hutt Valley","Yes","Bali","NZ409",2020-03-19,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Indonesia"
+2020-03-26,"Male","60 to 69","Lakes","Yes","Preston","CX2190",2020-03-23,2020-03-25,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-26,"Female","20 to 29","Northland","Yes","Dubai","EK448",NA,2020-03-24,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-26,"Male","50 to 59","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","60 to 69","Southern","Yes",NA,NA,NA,2020-03-22,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","70+","Southern","Yes","Los Angeles","NZ619",2020-03-21,2020-03-21,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-26,"Male","70+","Southern","Yes","Geneva","JQ295",2020-03-16,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Switzerland"
+2020-03-26,"Female","40 to 49","Southern","Yes",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","20 to 29","Southern","Yes",NA,NA,NA,2020-03-25,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","20 to 29","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","50 to 59","Tairawhiti","Yes","Los Angeles","NZ8161",2020-03-18,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-26,"Male","50 to 59","Taranaki","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","70+","Taranaki","Yes",NA,"SQ285",2020-03-24,2020-03-24,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","60 to 69","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","60 to 69","Waikato","Yes",NA,NA,NA,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","70+","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","15 to 19","Waikato","Yes","Sun Peak","NZ23",2020-03-20,2020-03-22,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Canada"
+2020-03-26,"Female","70+","Waikato","Yes",NA,"PR218",NA,2020-03-06,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","60 to 69","Waikato","Yes","Dubai","EK448",2020-03-15,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-26,"Female","20 to 29","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","50 to 59","Waikato","Yes","Sydney","VA145",2020-03-18,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-26,"Male","40 to 49","Waikato","Yes","Bangkok","TG491",2020-03-18,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Thailand"
+2020-03-26,"Female","20 to 29","Waikato","Yes","Los Angeles",NA,NA,2020-03-25,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-26,"Male","20 to 29","Waikato","Yes","Auckland","NZ7",2020-03-20,2020-03-22,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"New Zealand"
+2020-03-26,"Female","40 to 49","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","50 to 59","Waitemata","Yes",NA,NA,2020-03-20,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","40 to 49","Waitemata","Yes","Sydney","QF143",2020-03-18,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-26,"Female","20 to 29","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","40 to 49","Waitemata","Yes",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","20 to 29","Waitemata","Yes","Los Angeles","NZ5",2020-03-22,2020-03-24,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-26,"Female","30 to 39","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Female","20 to 29","Waitemata","Yes",NA,NA,NA,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","50 to 59","Waitemata","Yes",NA,NA,NA,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-26,"Male","20 to 29","West Coast","Yes","Sydney",NA,NA,2020-03-12,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-25,"Male","30 to 39","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","15 to 19","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","20 to 29","Auckland","Yes",NA,NA,NA,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","20 to 29","Auckland","Yes","London","EK448",2020-03-13,2020-03-15,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-25,"Female","20 to 29","Auckland","Yes","Dubai",NA,NA,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-25,"Female","60 to 69","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","50 to 59","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","20 to 29","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","30 to 39","Auckland","Yes","Houston","NZ29",2020-03-15,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-25,"Male","70+","Auckland","Yes","San Diego","LA801",2020-03-19,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-25,"Female","30 to 39","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","40 to 49","Auckland","Yes",NA,NA,NA,2020-03-15,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","60 to 69","Bay of Plenty","Yes","Sydney","NZ102",NA,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-25,"Male","70+","Bay of Plenty","Yes","Colorado","NZ7",2020-03-20,2020-03-23,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-25,"Female","40 to 49","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","15 to 19","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","20 to 29","Canterbury","Yes","Sydney","EK412",2020-03-24,2020-03-24,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-25,"Male","50 to 59","Capital and Coast","Yes","New York","NZ409",2020-03-19,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-25,"Female","20 to 29","Capital and Coast","Yes","Sydney","EK5047",2020-03-21,2020-03-21,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-25,"Male","30 to 39","Capital and Coast","Yes",NA,"NZ433",2020-03-21,2020-03-21,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","20 to 29","Capital and Coast","Yes",NA,"NZ411",2020-03-24,2020-03-24,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","10 to 14","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","15 to 19","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","15 to 19","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","60 to 69","Counties Manukau","Yes","Dubai","EK448",2020-03-18,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-25,"Male","10 to 14","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","60 to 69","Hawke's Bay","Yes","Phnom Penh","NZ5019",2020-03-16,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Cambodia"
+2020-03-25,"Female","50 to 59","Hawke's Bay","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","70+","Hawke's Bay","Yes","Phnom Penh","NZ5019",2020-03-16,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Cambodia"
+2020-03-25,"Male","40 to 49","Hutt Valley","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","50 to 59","Lakes","Yes",NA,NA,NA,2020-03-14,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","20 to 29","Lakes","Yes","Dubai","NZ8155",2020-03-19,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-25,"Female","20 to 29","Lakes","Yes","Zurich","QR920",NA,2020-03-24,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Switzerland"
+2020-03-25,NA,"50 to 59","MidCentral","Yes","Los Angeles","NZ5107",2020-03-18,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-25,"Male","30 to 39","Nelson Marlborough","Yes","Sydney",NA,NA,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-25,"Male","60 to 69","Nelson Marlborough",NA,NA,NA,2020-03-05,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","50 to 59","Nelson Marlborough","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","20 to 29","Northland","Yes","Dubai","EK488",2020-03-19,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-25,"Male","60 to 69","Northland","Yes","Los Angeles","NZ1",2020-03-23,2020-03-24,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-25,"Male","60 to 69","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","20 to 29","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","40 to 49","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","30 to 39","Southern","Yes","Dubai","NZ677",2020-03-19,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-25,"Male","60 to 69","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","20 to 29","Southern","Yes","Frankfurt","NZ625",2020-03-21,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Germany"
+2020-03-25,"Male","50 to 59","Southern","Yes",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","30 to 39","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","20 to 29","Southern","Yes",NA,NA,NA,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","20 to 29","Taranaki","Yes","Doha",NA,NA,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Qatar"
+2020-03-25,"Male","30 to 39","Waikato","Yes","Doha",NA,NA,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Qatar"
+2020-03-25,"Female","30 to 39","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","60 to 69","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","30 to 39","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","40 to 49","Waikato","Yes",NA,"NZ5",2020-03-17,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","70+","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","40 to 49","Waikato","Yes","Dubai",NA,NA,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-25,"Male","15 to 19","Waikato","Yes",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","50 to 59","Waikato","Yes",NA,NA,NA,2020-03-07,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","20 to 29","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","50 to 59","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","20 to 29","Waikato","Yes","Dubai",NA,NA,2020-03-15,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-25,"Female","60 to 69","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","60 to 69","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","40 to 49","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","20 to 29","Waikato","Yes","Doha","EL342",2020-03-11,2020-03-13,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Qatar"
+2020-03-25,"Male","20 to 29","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","60 to 69","Waikato","Yes","London","EK448",2020-03-18,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-25,"Female","20 to 29","Waikato",NA,NA,"EK448",2020-03-20,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","30 to 39","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","60 to 69","Waitemata","Yes","Buenos Aires",NA,NA,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Argentina"
+2020-03-25,"Male","70+","Waitemata","Yes","California","NZ5",2020-03-17,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Unknown country"
+2020-03-25,"Male","40 to 49","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","<1","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Male","50 to 59","Waitemata","Yes","Bali",NA,NA,2020-03-15,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Indonesia"
+2020-03-25,"Male","30 to 39","Waitemata","Yes",NA,"EK448",2020-03-16,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","30 to 39","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-25,"Female","20 to 29","Waitemata","Yes",NA,"AirNZ29",2020-03-20,2020-03-22,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Male","30 to 39","Auckland","Yes","Dubai","EK448",2020-03-22,2020-03-23,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-24,"Male","30 to 39","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Female","20 to 29","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Female","20 to 29","Auckland","Yes","Edinburgh","EK448",2020-03-21,2020-03-22,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Scotland"
+2020-03-24,"Female","30 to 39","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Male","50 to 59","Auckland","Yes","San Diego","AA83",2020-03-19,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-24,"Male","30 to 39","Auckland","Yes","California",NA,NA,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Unknown country"
+2020-03-24,"Female","30 to 39","Bay of Plenty","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Female","50 to 59","Canterbury","Yes","San Francisco","NZ7",2020-03-19,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-24,"Male","50 to 59","Canterbury","Yes",NA,NA,NA,2020-03-13,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Female","20 to 29","Canterbury","Yes","Dublin","JQ233",2020-03-20,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Ireland"
+2020-03-24,"Female","1 to 4","Canterbury","Yes","Jakarta",NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Indonesia"
+2020-03-24,"Female","20 to 29","Canterbury","Yes","london","EK412",2020-03-19,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-24,"Male","50 to 59","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Female","20 to 29","Canterbury","Yes","London","EK0412",2020-03-20,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-24,"Female","20 to 29","Canterbury","Yes","Hautesaivre","QF1033",2020-03-20,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Unknown country"
+2020-03-24,"Male","30 to 39","Capital and Coast","Yes","Melbourne",NA,NA,2020-03-21,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-24,"Male","50 to 59","Capital and Coast","Yes","New York/Houston","NZ0407",2020-03-20,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-24,"Male","30 to 39","Capital and Coast","Yes","Dubai",NA,NA,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-24,"Male","20 to 29","Capital and Coast","Yes","Sydney","QF161",2020-03-21,2020-03-21,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-24,"Female","50 to 59","Capital and Coast","Yes","New York, Los Angeles","NZ5",2020-03-17,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-24,"Male","60 to 69","Capital and Coast","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Female","60 to 69","Capital and Coast","Yes","New York, Atlanta, Houston","NZ0407",2020-03-20,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-24,"Male","40 to 49","Capital and Coast","Yes","New York","WL241",2020-03-20,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-24,"Female","60 to 69","Capital and Coast","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Female","50 to 59","Capital and Coast","Yes","New York","NZ241",2020-03-20,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-24,"Male","20 to 29","Counties Manukau","Yes",NA,"NZ1",2020-03-23,2020-03-23,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Female","20 to 29","Counties Manukau","Yes","Dubai","EK448",2020-03-16,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-24,"Female","70+","Hawke's Bay","Yes","Majorca","EK448",2020-03-18,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Spain"
+2020-03-24,"Male","70+","Hawke's Bay","Yes","Majorca","EK448",2020-03-18,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Spain"
+2020-03-24,"Male","20 to 29","Lakes","Yes","Doha",NA,NA,2020-03-23,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Qatar"
+2020-03-24,"Female","20 to 29","MidCentral","Yes","Brisbane","JQ278",2020-03-14,2020-03-06,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-24,"Male","70+","Nelson Marlborough",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Male","60 to 69","Nelson Marlborough","Yes","Los Angeles","NZ5065",2020-03-16,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-24,"Female","50 to 59","Northland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Female","30 to 39","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Male","60 to 69","Southern","Yes","London",NA,NA,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-24,"Male","30 to 39","Southern","Yes","Tirol","JQ285",2020-03-19,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Austria"
+2020-03-24,"Male","40 to 49","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Female","20 to 29","Southern","Yes","London","EK006",2020-03-21,2020-03-23,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-24,"Female","20 to 29","Southern","Yes",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Male","20 to 29","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Female","50 to 59","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Female","20 to 29","Waikato","Yes","Bali",NA,NA,2020-03-23,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Indonesia"
+2020-03-24,"Male","50 to 59","Wairarapa","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Female","30 to 39","Wairarapa","Yes","Sydney","QF161",2020-03-20,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-24,"Female","50 to 59","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Male","40 to 49","Waitemata","Yes","Los Angeles","AA83",2020-03-19,2020-03-21,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-24,"Female","30 to 39","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Female","40 to 49","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Female","30 to 39","Waitemata","Yes",NA,NA,NA,2020-03-23,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-24,"Female","15 to 19","Waitemata","Yes","Houston","NZ29",NA,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-24,"Male","60 to 69","Waitemata","Yes","Buenos Aires",NA,NA,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Argentina"
+2020-03-24,"Male","20 to 29","Waitemata","Yes","Dubai",NA,NA,2020-03-21,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-24,"Female","20 to 29","Waitemata","Yes","Los Angeles","NZ8",2020-03-17,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-23,"Female","15 to 19","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Male","40 to 49","Auckland","Yes",NA,NA,NA,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Female","30 to 39","Auckland","Yes","Los Angeles","NZ05",2020-03-17,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-23,"Female","15 to 19","Auckland","Yes","Sydney",NA,NA,2020-03-21,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-23,"Female","20 to 29","Auckland","Yes","British Columbia","NZ23",2020-03-19,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Canada"
+2020-03-23,"Male","20 to 29","Auckland","Yes",NA,NA,NA,2020-03-22,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Female","20 to 29","Auckland","Yes",NA,NA,NA,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Male","50 to 59","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Male","50 to 59","Canterbury","Yes",NA,"SQ297",2020-03-19,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Female","20 to 29","Canterbury","Yes","London","Emirates-CHCH",2020-03-11,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-23,"Male","50 to 59","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Male","70+","Capital and Coast","Yes","Sydney",NA,2020-03-18,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-23,"Female","70+","Capital and Coast","Yes","Sydney",NA,2020-03-18,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-23,"Male","50 to 59","Capital and Coast","Yes","Los Angeles","NZ413",2020-03-19,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-23,"Female","50 to 59","Capital and Coast","Yes","New York","NZ409",2020-03-19,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-23,"Male","60 to 69","Capital and Coast","Yes","New York","NZ409",2020-03-19,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-23,"Male","50 to 59","Capital and Coast","Yes","New York","NZ409",2020-03-19,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-23,"Female","60 to 69","Capital and Coast","Yes","Auckland","NZ413",2020-03-19,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"New Zealand"
+2020-03-23,"Male","30 to 39","Capital and Coast","Yes","London","NZ409",2020-03-19,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-23,"Female","30 to 39","Counties Manukau","Yes","Sydney",NA,NA,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-23,"Male","40 to 49","Hutt Valley","Yes","Sydney","VA171",2020-03-13,2020-03-13,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-23,"Female","30 to 39","Lakes","Yes",NA,"EK448",2020-03-22,2020-03-23,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Male","70+","MidCentral","Yes","Dubai","NZ5115",2020-03-17,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-23,"Female","70+","Nelson Marlborough",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Male","30 to 39","Nelson Marlborough","Yes","Sydney","NZ8205",2020-03-18,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-23,"Male","50 to 59","Nelson Marlborough","Yes","Sydney",NA,NA,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-23,"Male","60 to 69","South Canterbury","Yes","London",NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-23,"Male","20 to 29","South Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Male","15 to 19","Southern","Yes",NA,NA,NA,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Female","30 to 39","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Female","50 to 59","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Male","30 to 39","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Female","60 to 69","Waikato","Yes","Paris","EK0448",2020-03-16,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"France"
+2020-03-23,"Male","50 to 59","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Male","50 to 59","Waikato","Yes","Phuket, Bangkok",NA,2020-03-21,2020-03-22,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Thailand"
+2020-03-23,"Female","40 to 49","Waikato",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Female","30 to 39","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-23,"Female","60 to 69","Waitemata",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,NA,"20 to 29","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Male","60 to 69","Auckland","Yes","Dubai",NA,NA,2020-03-09,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-22,"Male","60 to 69","Auckland","Yes","Delhi",NA,2020-03-13,2020-03-13,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"India"
+2020-03-22,"Female","40 to 49","Auckland","Yes","Los Angeles","NZ1",2020-03-15,2020-03-15,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-22,"Male","50 to 59","Auckland","Yes","Los Angeles","NZ1",2020-03-13,2020-03-15,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-22,"Female","30 to 39","Auckland","Yes",NA,"EK448",2020-03-19,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Male","20 to 29","Auckland","Yes","Doha","QR920",2020-03-21,2020-03-22,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Qatar"
+2020-03-22,"Female","20 to 29","Canterbury","Yes",NA,"SQ297",2020-03-17,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Female","60 to 69","Canterbury","Yes",NA,NA,NA,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Female","20 to 29","Canterbury","Yes","Seattle","NZ527",2020-03-21,2020-03-21,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-22,"Female","60 to 69","Capital and Coast","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Male","60 to 69","Capital and Coast","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Male","40 to 49","Capital and Coast","Yes","Aspen, Colorado","NZ421",2020-03-16,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-22,"Female","20 to 29","Capital and Coast","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Female","20 to 29","Capital and Coast","Yes",NA,"JQ253",2020-03-19,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Male","50 to 59","Capital and Coast","Yes","New York",NA,NA,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-22,"Male","40 to 49","Counties Manukau","Yes",NA,"EK448",2020-03-15,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Male","10 to 14","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Female","15 to 19","Counties Manukau","Yes","Dubai","EK448",2020-03-19,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-22,"Female","60 to 69","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Female","20 to 29","Counties Manukau","Yes","Kuala Lumpur","MH0133",2020-03-19,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Malaysia"
+2020-03-22,"Female","50 to 59","Counties Manukau","Yes","Malaga, Madrid","QR920",2020-03-17,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Spain"
+2020-03-22,"Male","40 to 49","Counties Manukau","Yes","Los Angeles","AA3",2020-03-16,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-22,"Female","50 to 59","Hutt Valley","No",NA,"NZ449",2020-03-08,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Female","50 to 59","Nelson Marlborough","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Male","50 to 59","Nelson Marlborough","Yes","Sydney","NZ8205",2020-03-18,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-22,"Male","20 to 29","Nelson Marlborough","Yes","Meribel","NZ8321",2020-03-20,2020-03-20,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"France"
+2020-03-22,"Male","70+","Nelson Marlborough","Yes","Sydney","NZ5071",2020-03-20,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-22,"Female","70+","Nelson Marlborough","Yes","Sydney","NZ5071",2020-03-20,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-22,"Female","40 to 49","Northland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Female","20 to 29","Southern","Yes","New York",NA,2020-03-19,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-22,"Female","50 to 59","Southern",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Female","50 to 59","Waikato","Yes","Dubai","EK448",2020-03-15,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-22,"Male","70+","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Male","30 to 39","Waitemata","Yes",NA,NA,NA,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Female","40 to 49","Waitemata","Yes","Los Angeles",NA,2020-03-14,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-22,"Male","20 to 29","Waitemata","Yes","Denver, Colorado","QF143",2020-03-18,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-22,"Female","40 to 49","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-22,"Female","20 to 29","Waitemata","Yes","Dubai","EK448",2020-03-19,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-22,"Male","60 to 69","West Coast","No",NA,"JQ27",2020-03-17,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-21,"Male","20 to 29","Auckland","Yes","Dubai","EK52",2020-03-15,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-21,"Male","50 to 59","Auckland","Yes","London","NZ1",2020-03-06,2020-03-08,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-21,"Female","20 to 29","Auckland",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-21,"Female","50 to 59","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-21,"Male","30 to 39","Bay of Plenty","Yes","Los Angeles",NA,NA,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-21,"Male","20 to 29","Canterbury","Yes",NA,"EY4689",2020-03-18,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-21,"Female","60 to 69","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-21,"Male","60 to 69","Canterbury","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-21,"Male","60 to 69","Capital and Coast","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-21,"Female","40 to 49","Counties Manukau","Yes",NA,NA,NA,2020-03-10,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-21,"Male","60 to 69","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-21,"Male","60 to 69","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-21,"Male","15 to 19","Counties Manukau",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-21,"Female","40 to 49","MidCentral","Yes",NA,"NZ842",2020-03-19,2020-03-19,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-21,"Male","30 to 39","Nelson Marlborough",NA,NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-21,"Male","60 to 69","Nelson Marlborough","Yes","Perth",NA,NA,2020-03-08,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-21,"Male","50 to 59","Taranaki","Yes","Bangkok","NZ8041",2020-03-16,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Thailand"
+2020-03-21,"Female","40 to 49","Waikato","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-21,"Male","60 to 69","Waikato","Yes","Hawai'i",NA,NA,2020-03-15,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-21,"Female","60 to 69","Waikato","Yes",NA,NA,NA,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-21,"Male","20 to 29","Wairarapa","Yes",NA,"NZ429",2020-03-12,2020-03-12,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-21,"Female","30 to 39","Wairarapa","Yes","London","NZ411",2020-03-17,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-20,"Male","60 to 69","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-20,"Female","50 to 59","Canterbury","Yes","New York","NZ523",2020-03-17,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-20,"Male","20 to 29","Canterbury","Yes","London","SQ297",2020-03-17,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-20,"Male","50 to 59","Lakes","Yes","Dubai","EK448",2020-03-10,2020-03-12,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-20,"Female","60 to 69","Nelson Marlborough","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-20,"Female","20 to 29","Nelson Marlborough","Yes","Houston","NZ5065",2020-03-16,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-20,"Male","20 to 29","Southern","Yes","Geneva",NA,NA,2020-03-18,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Switzerland"
+2020-03-20,"Male","40 to 49","Southern","Yes","London",NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-20,"Female","60 to 69","Waikato","Yes",NA,"SQ285",2020-03-14,2020-03-15,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-20,"Female","30 to 39","Waitemata","Yes","Orlando","AA83",2020-03-13,2020-03-14,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-20,"Male","70+","Waitemata","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-19,"Male","40 to 49","Auckland","Yes",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-19,"Male","40 to 49","Auckland","Yes","New Jersey",NA,NA,2020-03-14,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Unknown country"
+2020-03-19,"Female","30 to 39","Capital and Coast","Yes","London","NZ443",NA,2020-03-13,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-19,"Male","60 to 69","Capital and Coast","Yes","London","QF161",2020-03-15,2020-03-15,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-19,"Male","40 to 49","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-19,"Male","30 to 39","Hawke's Bay","Yes",NA,"QR920",2020-03-16,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-19,"Male","50 to 59","Hutt Valley","Yes","San Francisco","NZ5823",2020-03-13,2020-03-05,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-19,"Male","50 to 59","Hutt Valley","Yes","Sydney","EK5047",2020-03-14,2020-03-14,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-19,"Female","30 to 39","MidCentral","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-19,"Male","40 to 49","MidCentral","No",NA,"NZ5180",2020-03-13,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-19,"Female","20 to 29","MidCentral","Yes","Doha","NZ5107",2020-03-16,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Qatar"
+2020-03-19,"Female","30 to 39","Southern","Yes","Southampton",NA,NA,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-19,"Female","70+","Waikato","Yes","Paris","EK450",2020-03-16,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"France"
+2020-03-19,"Female","60 to 69","Waikato","Yes","Paris","EK450",2020-03-16,2020-03-17,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"France"
+2020-03-19,"Male","30 to 39","Wairarapa","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-19,"Female","40 to 49","Waitemata","Yes","Doha","QR920",2020-03-14,2020-03-15,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Qatar"
+2020-03-18,"Female","50 to 59","Auckland","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-18,"Male","50 to 59","Canterbury","Yes","Los Angeles","NZ535",2020-03-15,2020-03-14,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-18,"Male","50 to 59","Capital and Coast","Yes","Dubai","QF161",2020-03-14,2020-03-14,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United Arab Emirates"
+2020-03-18,"Male","40 to 49","Southern","Yes","Gold Coast",NA,NA,2020-03-10,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-18,"Male","60 to 69","Southern","Yes","Sydney",NA,NA,2020-03-13,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-17,"Male","50 to 59","Auckland","Yes","London",NA,NA,2020-03-15,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-17,"Male","40 to 49","Auckland","Yes",NA,"QF13",2020-03-15,2020-03-15,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-17,"Female","40 to 49","Canterbury","Yes","London",NA,NA,2020-03-16,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-17,"Male","40 to 49","Capital and Coast","Yes","London","SQ247",2020-03-13,2020-03-14,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"England"
+2020-03-17,"Female","30 to 39","Counties Manukau","Yes","Colorado",NA,NA,2020-03-13,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-17,"Male","50 to 59","Lakes","Yes","Singapore","SQ285",2020-03-13,2020-03-13,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Singapore"
+2020-03-17,"Male","20 to 29","Northland","Yes",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-17,"Male","40 to 49","Southern","Yes","Frankfurt",NA,NA,2020-03-08,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Germany"
+2020-03-17,"Male","15 to 19","Southern","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-17,"Male","60 to 69","Waitemata","Yes","Okanagan, Vancouver",NA,NA,2020-03-12,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Canada"
+2020-03-17,"Male","60 to 69","Waitemata","Yes","Los Angeles","UA559",2020-03-11,2020-03-13,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-16,"Male","60 to 69","Auckland","Yes","Colorado","NZ7",2020-03-10,2020-03-13,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-16,"Male","70+","Capital and Coast","Yes","Colorado","AA83",2020-03-14,2020-03-14,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-16,"Male","30 to 39","Capital and Coast","Yes","Colorado","AA83",2020-03-14,2020-03-14,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"United States of America"
+2020-03-16,"Female","40 to 49","Taranaki","Yes","Cairo","NZ8041",2020-03-09,2020-03-09,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Egypt"
+2020-03-16,"Male","40 to 49","Taranaki","Yes","Auckland","NZ8035",2020-03-15,2020-03-15,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"New Zealand"
+2020-03-16,"Male","70+","Waikato","Yes",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-16,"Female","20 to 29","Waikato","Yes","Sydney","NZ112",2020-03-08,2020-03-08,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Australia"
+2020-03-15,"Female","40 to 49","Waitemata","Yes",NA,NA,NA,2020-03-08,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-14,"Male","60 to 69","Capital and Coast","Yes",NA,"NZ838",2020-03-13,2020-03-13,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-13,"Female","30 to 39","Southern","Yes","Christchurch",NA,NA,2020-03-10,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"New Zealand"
+2020-03-12,"Male","60 to 69","Counties Manukau","Yes","New Jersey",NA,NA,2020-03-06,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Unknown country"
+2020-03-06,"Female","40 to 49","Counties Manukau","No",NA,NA,NA,NA,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-04,"Male","40 to 49","Counties Manukau","Yes",NA,NA,NA,2020-02-23,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-04,"Male","40 to 49","Waitemata","Yes",NA,"NZ283",2020-02-25,2020-02-26,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,NA
+2020-03-02,"Female","30 to 39","Waitemata","Yes","Northern Region Italy Milan/Bergamo/Como/Lombard",NA,NA,2020-02-26,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Italy"
+2020-02-26,"Female","60 to 69","Auckland","Yes","Bali","EK450",2020-02-25,2020-02-26,"confirmed","data/moh/caselists/raw/covid-19-confirmed-cases-28mar20.xlsx COVID19 MoH media",2020-03-28,"Indonesia"
+2020-03-27,"Female","50 to 59","Auckland",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-27,"Male","30 to 39","Canterbury","Yes","London","EK412",2020-03-18,2020-03-19,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,"England"
+2020-03-27,"Female","30 to 39","Canterbury","Yes","London","EK412",2020-03-18,2020-03-19,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,"England"
+2020-03-27,"Female","60 to 69","MidCentral","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-27,"Male","20 to 29","Waitemata",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-26,"Female","30 to 39","Auckland","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-26,"Female","50 to 59","Capital and Coast","Yes","New York","NZ409",2020-03-19,2020-03-19,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,"United States of America"
+2020-03-26,"Female","60 to 69","Waitemata","Yes","Bali",NA,NA,2020-03-15,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,"Indonesia"
+2020-03-26,"Female","5 to 9","Waitemata",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-26,"Female","60 to 69","Waitemata",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-25,"Female","40 to 49","Canterbury","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-25,"Male","20 to 29","MidCentral","No",NA,"NZ526",2020-03-25,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-25,"Female","20 to 29","Waikato","Yes","Melbourne",NA,NA,2020-03-01,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,"Australia"
+2020-03-25,"Male","20 to 29","Waitemata","Yes","Los Angeles",NA,NA,2020-03-19,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,"United States of America"
+2020-03-25,"Male","50 to 59","Waitemata",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-25,"Female","20 to 29","Waitemata",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-25,"Female","20 to 29","Waitemata",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-24,"Male","40 to 49","Bay of Plenty","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-24,"Female","20 to 29","Bay of Plenty",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-24,"Female","50 to 59","Nelson Marlborough",NA,NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-23,"Female","60 to 69","Capital and Coast","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-23,"Male","15 to 19","Hutt Valley","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-22,"Female","15 to 19","Auckland","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-22,"Female","15 to 19","Canterbury","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-22,"Female","40 to 49","Capital and Coast","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-22,"Male","50 to 59","Counties Manukau","Yes","Doha","QR920",2020-03-17,2020-03-18,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,"Qatar"
+2020-03-22,"Male","50 to 59","Waikato","Yes","Dubai","BEKA76",2020-03-15,2020-03-16,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,"United Arab Emirates"
+2020-03-21,"Male","20 to 29","Taranaki","Yes","Dubai","NZ8041",2020-03-18,2020-03-18,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,"United Arab Emirates"
+2020-03-21,"Female","60 to 69","Waitemata","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-19,NA,"50 to 59","Auckland","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-19,"Female","50 to 59","Auckland","Yes","London",NA,NA,2020-03-17,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,"England"
+2020-03-19,"Male","70+","Capital and Coast","Yes",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-17,"Female","50 to 59","Southern","No",NA,NA,NA,NA,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,NA
+2020-03-05,"Male","70+","Counties Manukau","Yes","Doha","QR0920",2020-02-22,2020-02-23,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,"Qatar"
+2020-03-05,"Female","70+","Waitemata","Yes","San Francisco",NA,NA,2020-02-25,"probable","data/moh/caselists/raw/covid-19-probable-cases-28mar20.xlsx Sheet1",2020-03-28,"United States of America"
