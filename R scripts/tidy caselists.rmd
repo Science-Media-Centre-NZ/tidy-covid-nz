@@ -126,6 +126,8 @@ saveCaseList <- function(
 ## but inconsistent date-formating :(
 filenames <- read.csv("data/moh/caselists/raw/filenames.csv",stringsAsFactors = F) %>% 
   mutate(releasedate = parse_date(releasedate,format="%d/%m/%Y")) %>% 
+  # remove files to be ignored (see comments in file)
+  filter(!is.na(releasedate)) %>% 
   arrange(releasedate)
 
 # tidy all available files
@@ -203,8 +205,6 @@ allCaseLists[["web-covid-confprob_20200418-2.xlsx"]]$tidyData <-
   mutate(`date of report` = case_when(is.na(`date of report`) ~ parse_date("2020-04-18"),
                                       TRUE ~ `date of report`))
 
-# remove 21 april for now until clear why there are two files
-allCaseLists[[grep("21april",names(allCaseLists))]] <- NULL
 
 # check the final names in the tidy output for errors
 map(1:length(allCaseLists),function(x) {
@@ -235,12 +235,12 @@ map(names(allCaseLists),function(x){
 ```{r suggested workflow for tidying single file}
 
 getCaseList(myDir = "data/moh/caselists/raw/",
-            myFile = "covid-cases-5may2020.xlsx",
-            myDate = "2020-05-05") %>% 
+            myFile = "covid-casedetails-21april_0.xlsx",
+            myDate = "2020-04-21") %>% 
 
 saveCaseList(myDir = "data/moh/caselists/tidy/",
              myFile = ., 
-             myDate = "2020-05-05") 
+             myDate = "2020-04-21") 
 
 ```
 
