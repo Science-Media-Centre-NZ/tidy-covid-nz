@@ -117,6 +117,18 @@ saveCaseList <- function(
     write.csv(paste0(myDir,"columnNames_",myDate,".csv"),row.names = F)
 }
 
+# function to return the most recent tidy data
+getLatestCaseList <- function(){
+  # load all case lists
+  load("data/moh/caselists/tidy/allCaseLists.RData")
+  
+  # get most recent tidy data
+  myTidyData <- allTidyData %>% 
+    filter(releasedate %in% max(releasedate,na.rm=T))
+  
+  return(myTidyData)
+}
+
 ```
 
 ```{r do bulk tidying of existing files}
@@ -216,31 +228,47 @@ map(1:length(allCaseLists),function(x) {
   unlist(lapply(allCaseLists[[x]]$tidyData,class))
   }) %>% unique()
 
-# check class of columns
+# check for missing dates
 map(1:length(allCaseLists),function(x) {
   summary(allCaseLists[[x]]$tidyData$`date of report`)
   }) 
 
-# save allCaseLists to csv files
-map(names(allCaseLists),function(x){
-  saveCaseList(myDir = "data/moh/caselists/tidy/",
-               myFile = allCaseLists[[x]], 
-               myDate = filenames %>% 
-                 filter(filenames %in% x) %>% 
-                 pull(releasedate))
-})
+# save allCaseLists$tidyData as one mega RData file
+allTidyData <- map(names(allCaseLists),function(x){
+  allCaseLists[[x]]$tidyData
+}) %>% 
+  bind_rows 
+
+allNameChanges <- map(names(allCaseLists),function(x){
+  allCaseLists[[x]]$nameChanges
+}) %>% 
+  bind_rows() 
+
+# save all tidy data to on RData file
+  save(allTidyData,
+       allNameChanges,
+       file="data/moh/caselists/tidy/allCaseLists.RData")
+
+  # save allCaseLists to individual csv files
+  map(names(allCaseLists),function(x){
+    saveCaseList(myDir = "data/moh/caselists/tidy/",
+                 myFile = allCaseLists[[x]], 
+                 myDate = filenames %>% 
+                   filter(filenames %in% x) %>% 
+                   pull(releasedate))
+  })  
 
 ```
 
 ```{r suggested workflow for tidying single file}
 
 getCaseList(myDir = "data/moh/caselists/raw/",
-            myFile = "covid-casedetails-21april_0.xlsx",
-            myDate = "2020-04-21") %>% 
+            myFile = "covid-cases-6may20.xlsx",
+            myDate = "2020-05-06") %>% 
 
 saveCaseList(myDir = "data/moh/caselists/tidy/",
              myFile = ., 
-             myDate = "2020-04-21") 
+             myDate = "2020-05-06") 
 
 ```
 
