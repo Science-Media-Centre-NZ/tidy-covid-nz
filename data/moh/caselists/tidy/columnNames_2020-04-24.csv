@@ -1,25 +1,25 @@
-"originalNames","standardNames","filename","sheetname","skippedRows"
-"Date of report","date of report","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3
-"Sex","sex","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3
-"Age group","age group","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3
-"DHB","dhb","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3
-"Overseas travel","international travel","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3
-"Last country before return","last country before return","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3
-"Flight number","flight number","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3
-"Flight departure date","flight departure date","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3
-"Arrival date","arrival date","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3
-"caseType","casetype","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3
-"datasource","datasource","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3
-"releaseDate","releasedate","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3
-"Date of report","date of report","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3
-"Sex","sex","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3
-"Age group","age group","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3
-"DHB","dhb","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3
-"Overseas travel","international travel","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3
-"Last country before return","last country before return","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3
-"Flight number","flight number","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3
-"Flight departure date","flight departure date","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3
-"Arrival date","arrival date","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3
-"caseType","casetype","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3
-"datasource","datasource","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3
-"releaseDate","releasedate","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3
+"originalNames","standardNames","filename","sheetname","skippedRows","releasedate"
+"Date of report","date of report","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3,2020-04-24
+"Sex","sex","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3,2020-04-24
+"Age group","age group","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3,2020-04-24
+"DHB","dhb","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3,2020-04-24
+"Overseas travel","international travel","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3,2020-04-24
+"Last country before return","last country before return","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3,2020-04-24
+"Flight number","flight number","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3,2020-04-24
+"Flight departure date","flight departure date","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3,2020-04-24
+"Arrival date","arrival date","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3,2020-04-24
+"caseType","casetype","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3,2020-04-24
+"datasource","datasource","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3,2020-04-24
+"releaseDate","releasedate","data/moh/caselists/raw/covid-caselist-24april.xlsx","Confirmed",3,2020-04-24
+"Date of report","date of report","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3,2020-04-24
+"Sex","sex","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3,2020-04-24
+"Age group","age group","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3,2020-04-24
+"DHB","dhb","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3,2020-04-24
+"Overseas travel","international travel","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3,2020-04-24
+"Last country before return","last country before return","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3,2020-04-24
+"Flight number","flight number","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3,2020-04-24
+"Flight departure date","flight departure date","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3,2020-04-24
+"Arrival date","arrival date","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3,2020-04-24
+"caseType","casetype","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3,2020-04-24
+"datasource","datasource","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3,2020-04-24
+"releaseDate","releasedate","data/moh/caselists/raw/covid-caselist-24april.xlsx","Probable",3,2020-04-24

@@ -46,7 +46,8 @@ readSheet <- function(
                                      TRUE ~ tolower(originalNames)),
            filename = myFile,
            sheetname = mySheet,
-           skippedRows = mySkip) 
+           skippedRows = mySkip,
+           releasedate = myDate) 
   
   # convert all column names to standardised names for consistency
   myOut %<>% setNames(myNames$standardNames) 
@@ -237,8 +238,11 @@ map(1:length(allCaseLists),function(x) {
 allTidyData <- map(names(allCaseLists),function(x){
   allCaseLists[[x]]$tidyData
 }) %>% 
-  bind_rows 
+  bind_rows %>% 
+  # reorder columns
+  select(`date of report`:`last city before return`,`last country before return`,everything())
 
+# save all allCaseLists$nameChanges into one mega file
 allNameChanges <- map(names(allCaseLists),function(x){
   allCaseLists[[x]]$nameChanges
 }) %>% 
