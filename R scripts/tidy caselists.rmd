@@ -13,7 +13,7 @@ require(magrittr)
 ```
 
 
-```{r functions for reading case lists}
+```{r functions for tidying case lists}
 # tidy a single excel spreadsheet sheet
 readSheet <- function(
   myFile, # the name of the file
@@ -118,19 +118,73 @@ saveCaseList <- function(
     write.csv(paste0(myDir,"columnNames_",myDate,".csv"),row.names = F)
 }
 
+
+```
+
+```{r data querying functions}
+
 # function to return the most recent tidy data
 getLatestCaseList <- function(){
   # load all case lists
   load("data/moh/caselists/tidy/allCaseLists.RData")
   
   # get most recent tidy data
-  myTidyData <- allTidyData %>% 
+  myOut <- allTidyData %>% 
     filter(releasedate %in% max(releasedate,na.rm=T))
   
-  return(myTidyData)
+  return(myOut)
+}
+
+# function to return the tidy data for a specific date or all time
+getCaseList <- function(
+  myDate = NULL # must be formatted as "YYYY-mm-dd"
+  ){
+  # load all case lists
+  load("data/moh/caselists/tidy/allCaseLists.RData")
+  
+  if(!is.null(myDate)){
+    # get tidy data for specified date
+  myOut <- allTidyData %>% 
+    filter(releasedate %in% parse_date(myDate))
+  } else{
+    myOut <- allTidyData
+  } 
+  return(myOut)
+}
+
+
+# function to return the most recent tidy data
+getLatestNameChanges <- function(){
+  # load all case lists
+  load("data/moh/caselists/tidy/allCaseLists.RData")
+  
+  # get most recent tidy data
+  myOut <- allNameChanges %>% 
+    filter(releasedate %in% max(releasedate,na.rm=T))
+  
+  return(myOut)
+}
+
+# function to return the name changes for a specific date or all time
+getNameChanges <- function(
+  myDate = NULL # must be formatted as "YYYY-mm-dd"
+  ){
+  # load all case lists
+  load("data/moh/caselists/tidy/allCaseLists.RData")
+  
+  if(!is.null(myDate)){
+    # get tidy data for specified date
+  myOut <- allNameChanges %>% 
+    filter(releasedate %in% parse_date(myDate))
+  } else{
+    myOut <- allNameChanges
+  }
+  
+  return(myOut)
 }
 
 ```
+
 
 ```{r do bulk tidying of existing files}
 
