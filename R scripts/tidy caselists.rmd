@@ -37,7 +37,7 @@ readSheet <- function(
   
   # get columns names and standardise
   myNames <- tibble(originalNames = c(as.character(names(myOut)))) %>% 
-    mutate(standardNames = case_when(tolower(originalNames) %in% c("report date","reportdate") ~ "date of report",
+    mutate(standardNames = case_when(tolower(originalNames) %in% c("report date","reportdate","date notified of potential case") ~ "date of report",
                                      grepl("overseas",tolower(originalNames)) ~ "international travel",
                                      grepl("last city",tolower(originalNames)) ~ "last city before return",
                                      grepl("last country",tolower(originalNames)) ~ "last country before return",
@@ -67,7 +67,7 @@ readSheet <- function(
 
 
 # function to read and combine all caselist data in excel spreadsheet
-getCaseList <- function(myDir = "", # the directory that the file is in
+tidyCaseList <- function(myDir = "", # the directory that the file is in
                         myFile, # the name of the file
                         myDate, # the date of file release (ideally should be read from filename)
                         mySkip=3 # the number of rows to skip
@@ -199,7 +199,7 @@ filenames <- read.csv("data/moh/caselists/raw/filenames.csv",stringsAsFactors = 
 
 # tidy all available files
 allCaseLists <- map(1:nrow(filenames),function(x){
-  getCaseList(myDir = "data/moh/caselists/raw/",
+  tidyCaseList(myDir = "data/moh/caselists/raw/",
               myFile = filenames$filenames[x],
               myDate = filenames$releasedate[x])
 }) %>% setNames(filenames$filenames)
@@ -261,7 +261,7 @@ allCaseLists[["covid-19-probable-cases-28mar20.xlsx"]] <- NULL
 
 # fix skip errors for 29 March
 allCaseLists[["covid-19-confirmed-probable-cases-29mar20.xlsx"]] <- 
-  getCaseList(myDir = "data/moh/caselists/raw/",
+  tidyCaseList(myDir = "data/moh/caselists/raw/",
               myFile = "covid-19-confirmed-probable-cases-29mar20.xlsx",
               myDate = parse_date("2020-03-29"),
               mySkip = 0)
@@ -320,9 +320,9 @@ allNameChanges <- map(names(allCaseLists),function(x){
 
 ```{r suggested workflow for tidying single file}
 
-getCaseList(myDir = "data/moh/caselists/raw/",
-            myFile = "covid-cases-6may20.xlsx",
-            myDate = "2020-05-06") %>% 
+tidyCaseList(myDir = "data/moh/caselists/raw/",
+            myFile = "covid-cases-7may20.xlsx",
+            myDate = "2020-05-07") %>% 
 
 saveCaseList(myDir = "data/moh/caselists/tidy/",
              myFile = ., 
