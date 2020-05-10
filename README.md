@@ -11,6 +11,9 @@ This repository has the following structure.
     caselists/
       raw/
       tidy/
+    clusters/
+      raw/
+      tidy/
 ```
 
 There are three key directories:
