@@ -1,0 +1,97 @@
+/**
+ * High contrast style sheet
+ *
+ * This style sheet only operate as intended if all other style sheets are
+ * disabled.
+ */
+
+* {
+  color:yellow !important;
+  border-color: yellow !important;
+  background:black !important;
+  width:auto !important;
+  height: auto !important;
+  float:none !important;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+body {
+  padding: 0 0 0 50px;
+  margin: 0;
+}
+
+a:link {
+  color: #ffff00;
+}
+
+a:visited {
+  color: #ffff99;
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: #000000;
+  background-color: #ffff00;
+}
+
+a img {
+  border: 2px solid #ffff00;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+}
+
+#page {
+  font-size: 1.5em !important;
+}
+
+.contextual-links-wrapper,
+.navbar-toggle {
+  display:none !important;
+}
+
+#toolbar {
+  font-size: 1.5em !important;
+}
+
+input {
+  color: black !important;
+  background-color: yellow !important;
+}
+
+header {
+  height: auto !important;
+  clear: both !important;
+}
+
+.fluid-width-video-wrapper {
+  padding: 0 !important;
+}
+
+img {
+  background-color: #ffffff !important;
+  margin: 0.5em !important;
+}
+/*
+     FILE ARCHIVED ON 17:05:55 May 01, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:57:53 May 10, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  esindex: 0.011
+  PetaboxLoader3.datanode: 304.399 (6)
+  RedisCDXSource: 99.569
+  exclusion.robots.policy: 0.122
+  exclusion.robots: 0.132
+  LoadShardBlock: 462.151 (4)
+  captures_list: 1039.35
+  CDXLines.iter: 70.924 (4)
+  PetaboxLoader3.resolve: 721.114 (4)
+  load_resource: 715.318
+*/
