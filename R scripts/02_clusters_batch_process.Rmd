@@ -1,0 +1,343 @@
+---
+title: "Fetch COVID HTML Data"
+author: "CDS Labs"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(warnings = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(cache.path = 'cache/')
+knitr::opts_chunk$set(fig.path = 'figs/')
+```
+
+
+
+```{r libaries}
+require(tidyverse)
+require(here)
+require(jsonlite)
+require(rvest)
+require(stringr)
+require(lubridate)
+require(readxl)
+require(tictoc)
+```
+
+
+
+# Get Config 
+
+```{r config}
+# get the config file contents
+config <- read_json(here::here("conf", "clusters.json"))
+```
+
+
+
+# Read Data
+
+## Read HTML file
+
+```{r read_html}
+read_html_data <- function(html_file) {
+    
+    tryCatch({
+      
+      cluster_html <- read_html(html_file)
+      return(cluster_html)
+      
+    }, error = function(e){
+      message(paste("Error reading HTML file"))
+      return(NULL)
+    })
+    
+}
+```
+
+## Read Excel file
+
+```{r read_excel}
+read_excel_data <- function(excel_file, sheet_name) {
+    
+    tryCatch({
+      
+      excel_data <- read_excel(excel_file, sheet = sheet_name, col_names = FALSE)
+      colnames(excel_data) <- colnames(excel_data) %>% str_replace("...", "v")
+      
+      return(excel_data)  
+
+    }, error = function(e){
+      message(paste("Error reading Excel file"))
+      return(NULL)
+    })
+    
+}
+```
+
+
+
+# Extract Data 
+
+## Extract HTML Table
+
+```{r extract_html}
+extract_html_data <- function(html_data) {
+    
+    tryCatch({
+    
+      cluster_html <- html_data
+      
+      cluster_data <- cluster_html %>% 
+        html_nodes("table") %>%
+        html_table() %>% 
+        .[[1]] # fetch first table
+      
+      return(cluster_data)
+
+    }, error = function(e){
+      message(paste("Error extracting HTML file"))
+      return(NULL)
+    })
+
+}
+```
+
+
+## Extract Excel Table
+
+```{r extract_excel}
+extract_excel_data <- function(excel_data) {
+
+    tryCatch({
+        
+      cluster_data <- excel_data %>% 
+          filter(!is.na(v2) & !is.na(v3) & !is.na(v4))
+      
+      colnames(cluster_data) <- cluster_data[1,]
+      cluster_data <- cluster_data[-1,]
+      
+      return(cluster_data)
+      
+    }, error = function(e){
+      message(paste("Error extracting Excel file"))
+      return(NULL)
+    })
+
+}
+```
+
+
+
+# Standardise Data
+
+```{r standardise_data}
+standardise_data <- function(data) {
+  
+  tryCatch({
+  
+      cluster_data <- data
+    
+      cluster_data_org_col_names <- colnames(cluster_data)
+      
+      ind <- 1
+      standardised_column_names <- list()
+      for (i in 1:length(cluster_data_org_col_names)) {
+          for (item in config$cluster_data$column_name_keyword_mapping) {
+              col_name <- names(item)
+              col_word <- item[[1]]
+              
+              if (grepl(col_word, cluster_data_org_col_names[i], ignore.case = TRUE)) {
+                  standardised_column_names[[ind]] <- col_name
+                  ind <- ind + 1
+              }
+          }
+      }
+      
+      colnames(cluster_data) <- standardised_column_names
+      
+      # fill missing columns
+      complete_columns <- names(unlist(config$cluster_data$column_name_keyword_mapping))
+      missing <- setdiff(complete_columns, colnames(cluster_data))
+      cluster_data[missing] <- NA
+      standarised_cluster_data <- cluster_data[complete_columns]
+
+      return(standarised_cluster_data)
+      
+  }, error = function(e){
+    message(paste("Error in standardise data"))
+    return(NULL)
+  })
+}
+```
+
+
+
+# Save Tidy Data 
+
+```{r save_data}
+save_tidy_data <- function(table_data, update_date, out_file) {
+    cluster_data <- table_data 
+
+    write.csv(cluster_data, 
+              out_file, 
+              row.names = F)
+}
+```
+
+
+
+# Process File
+
+## HTML File
+
+```{r process_html}
+process_html_file <- function(html_file, update_date) {
+  
+  tryCatch({
+
+    html_data <- read_html_data(html_file)
+    
+    table_data <- extract_html_data(html_data)
+    table_data <- standardise_data(table_data)
+    
+    out_file_path <- here::here(paste0(
+        config$cluster_data$tidy_data, 
+        "clusters_", 
+        update_date, 
+        ".csv"))
+     
+    save_tidy_data(table_data, update_date, out_file_path)
+  
+  }, error = function(e){
+    message(paste("Error processing html file"))
+  })
+  
+}
+```
+
+## Excel File
+
+```{r process_excel}
+process_excel_file <- function(excel_file) {
+  
+  tryCatch({
+      
+      sheets <- excel_sheets(excel_file)
+      
+      for (i in 1:length(sheets)) {
+          
+          update_date <- sheets[i] %>%  
+              parse_date_time(., "%d %m") %>% 
+              format(., format="%Y-%m-%d")
+          
+          excel_data <- read_excel_data(excel_file, sheets[i])
+          table_data <- extract_excel_data(excel_data)
+          table_data <- standardise_data(table_data)
+          
+          out_file_path <- here::here(paste0(
+              config$cluster_data$tidy_data, 
+              "clusters_", 
+              update_date, 
+              ".csv"))
+       
+          save_tidy_data(table_data, update_date, out_file_path)
+      }
+      
+  }, error = function(e){
+    message(paste("Error processing html file"))
+  })
+  
+}
+```
+
+
+
+# Process All Files
+
+## Excel files
+
+```{r excel_files}
+
+tic("Processing Excel files")
+
+# Get all the excel files
+excel_files <- list.files(here::here(path=config$cluster_data$raw_data), pattern="*.xlsx", all.files=FALSE, full.name = TRUE)
+
+# get the list previously processed files
+processed_files = read_csv(here::here(path=config$cluster_data$processed_status_file),
+                           col_types = list(col_character(), col_character()))
+
+for (i in 1:length(excel_files)) {
+    excel_file <- excel_files[i]
+    
+    tryCatch({
+
+        # Check if the file has been processed previously
+        file_name = str_split(excel_file, '//')[[1]][2]
+        if (nrow(processed_files[str_which(processed_files$file_name, file_name), ]) == 0) {
+          
+          # process the file
+          process_excel_file(excel_file)
+          
+          # add file to the processed file index
+          processed_files <- processed_files %>% 
+            add_row(file_name = file_name, processed_date = format(now(), format="%Y-%m-%d %I:%M:%S"))
+        }
+
+    }, error = function(e){
+      message(paste("Error processing file - ", excel_file))
+    })
+}
+
+# update the process file index
+write_csv(processed_files, 
+              here::here(path=config$cluster_data$processed_status_file))
+
+toc()
+```
+
+
+## HTML files
+
+```{r html_files}
+
+tic("Processing HTML files")
+
+# Get all the html files
+html_files <- list.files(here::here(path=config$cluster_data$raw_data), pattern="*.htm", full.name = TRUE)
+
+# get the list previously processed files
+processed_files = read_csv(here::here(path=config$cluster_data$processed_status_file),
+                           col_types = list(col_character(), col_character()))
+
+for (i in 1:length(html_files)) {
+    html_file <- html_files[i]
+    
+    tryCatch({
+
+        # Check if the file has been processed previously
+        file_name = str_split(html_file, '//')[[1]][2]
+        if (nrow(processed_files[str_which(processed_files$file_name, file_name), ]) == 0) {
+          print(file_name)
+          update_date <- str_extract(html_file, "\\d{4}-\\d{1,2}-\\d{1,2}")
+          
+          # process the file
+          process_html_file(html_file, update_date)
+          
+          # add file to the processed file index
+          processed_files <- processed_files %>% 
+            add_row(file_name = file_name, processed_date = format(now(), format="%Y-%m-%d %I:%M:%S"))
+        }
+
+    }, error = function(e){
+      message(paste("Error processing file - ", html_file))
+    })
+}
+
+write_csv(processed_files, 
+              here::here(path=config$cluster_data$processed_status_file))
+
+toc()
+```

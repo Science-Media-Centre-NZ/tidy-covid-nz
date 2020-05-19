@@ -1,0 +1,13 @@
+"cluster_name","location","total_to_date","new_cases_24hrs","recovered_to_date","origin","transmission_ongoing","status"
+"Wedding","Bluff","87.0","0.0",NA,"Overseas exposure",NA,NA
+"Marist College","Auckland","84.0","0.0",NA,NA,NA,NA
+"Hospitality venue","Matamata","69.0","5.0",NA,"Overseas exposure",NA,NA
+"Private function","Auckland","34.0","11.0",NA,"Unknown",NA,NA
+"World Hereford Conference","Queenstown","33.0","-3.0",NA,"Overseas exposure",NA,NA
+"Aged residential care facility","Christchurch","28.0","7.0",NA,"Unknown",NA,NA
+"Workplace","Auckland","28.0","4.0",NA,"Unknown",NA,NA
+"Group travel to US","Wellington","16.0","-3.0",NA,"Overseas exposure",NA,NA
+"Ruby Princess cruise ship","Hawke’s Bay","16.0","0.0",NA,"Overseas exposure",NA,NA
+"Group travel to US","Auckland","15.0","0.0",NA,"Overseas exposure",NA,NA
+"Aged residential care facility","Waikato","14.0","1.0",NA,"Overseas exposure",NA,NA
+"Wedding","Wellington","13.0","0.0",NA,"Overseas exposure",NA,NA

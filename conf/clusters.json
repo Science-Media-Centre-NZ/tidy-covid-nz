@@ -1,0 +1,20 @@
+
+{
+    "cluster_data": {
+        "url": "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases/covid-19-significant-clusters",
+        "update_freq": "daily",
+        "column_name_keyword_mapping": [
+            {"cluster_name": "cluster"},
+            {"location": "location"},
+            {"total_to_date": "total"},
+            {"new_cases_24hrs": "new"},
+            {"recovered_to_date": "recovered"},
+            {"origin": "origin"},
+            {"transmission_ongoing": "transmission"},
+            {"status": "status"}
+        ],
+        "tidy_data": "data/moh/clusters/tidy/",
+        "raw_data": "data/moh/clusters/raw/",
+        "processed_status_file": "data/moh/clusters/raw/processed_status.csv"
+    }
+}

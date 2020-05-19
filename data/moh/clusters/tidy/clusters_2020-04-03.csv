@@ -1,0 +1,11 @@
+"cluster_name","location","total_to_date","new_cases_24hrs","recovered_to_date","origin","transmission_ongoing","status"
+"School","Auckland","59.0","3.0",NA,NA,NA,NA
+"Event","Southland","53.0","19.0",NA,NA,NA,NA
+"Workplace","Waikato","49.0","8.0",NA,NA,NA,NA
+"Event","Queenstown","29.0","2.0",NA,NA,NA,NA
+"Workplace","Auckland","16.0","6.0",NA,NA,NA,NA
+"Rest home","Waikato","14.0","0.0",NA,NA,NA,NA
+"Group travel to US","Wellington","13.0","-2.0",NA,NA,NA,NA
+"Event","Wellington","13.0","4.0",NA,NA,NA,NA
+"Cruise ship","Hawke’s Bay","13.0","7.0",NA,NA,NA,NA
+"Group travel overseas","Auckland","12.0","4.0",NA,NA,NA,NA

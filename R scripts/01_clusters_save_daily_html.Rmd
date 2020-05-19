@@ -1,0 +1,79 @@
+---
+title: "Fetch COVID HTML Data"
+author: "CDS Labs"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(warnings = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(cache.path = 'cache/')
+knitr::opts_chunk$set(fig.path = 'figs/')
+```
+
+
+```{r libaries}
+require(tidyverse)
+require(here)
+require(jsonlite)
+require(rvest)
+require(stringr)
+require(lubridate)
+require(tictoc)
+```
+
+
+```{r config}
+config <- read_json(here::here("conf", "clusters.json"))
+```
+
+
+# Fetch Webpage
+
+## Fetch Raw Data
+
+```{r}
+tic("Saving Web Page")
+```
+
+
+```{r}
+cluster_html <- config$cluster_data$url %>% 
+  read_html() 
+```
+
+
+## Extract Update Time
+
+```{r}
+update_dt <- cluster_html %>% 
+    html_nodes('.page_updated') %>% 
+    html_text() %>% 
+    # .[[1]] %>% 
+    str_replace(., ".+: ", "")
+
+update_date <- update_dt %>% 
+    # parse_date_time(., "%h:%M %p, %d %m %y") %>% 
+    parse_date_time(., "%d %m %y") %>% 
+    format(., format="%Y-%m-%d")
+```
+
+## Save Raw Data
+
+```{r}
+html_file <- here::here(paste0(
+        config$cluster_data$raw_data, 
+        "clusters_", 
+        update_date, 
+        ".htm"))
+
+write_xml(cluster_html, html_file)
+```
+
+```{r}
+toc()
+```
+
+
+
