@@ -1,0 +1,36 @@
+{
+    "testing": {
+        "url": "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases/covid-19-testing-rates-ethnicity-and-dhb",
+        "update_freq": "weekly",
+        "raw_data": "data/moh/testing/raw/",
+        "tidy_data": "data/moh/testing/tidy/",
+        "processed_status_file": "data/moh/testing/raw/processed_status.csv",
+        "num_tests_dhb_column_names": [
+            "DHB",
+            "total_tested",
+            "positive_perc",
+            "tests_per_1000"
+        ],
+        "test_ethnicity_column_names": [
+            "ethnicity",
+            "total_tested",
+            "positive_perc",
+            "tests_per_1000"
+        ],
+        "num_tests_ethnicity_dhb_column_names": [
+            "DHB",
+            "Maori",
+            "Pacific",
+            "Asian",
+            "Others"
+        ],
+        "pos_test_rate_ethnicity_dhb_column_names": [
+            "DHB",
+            "Maori",
+            "Pacific",
+            "Asian",
+            "Others",
+            "Unknown"
+        ]
+    }
+}

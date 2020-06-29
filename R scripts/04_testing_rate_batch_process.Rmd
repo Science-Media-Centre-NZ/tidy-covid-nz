@@ -1,0 +1,201 @@
+---
+title: "Fetch COVID HTML Data"
+author: "CDS Labs"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(warnings = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(cache.path = 'cache/')
+knitr::opts_chunk$set(fig.path = 'figs/')
+```
+
+
+```{r libaries}
+require(tidyverse)
+require(here)
+require(jsonlite)
+require(rvest)
+require(stringr)
+require(lubridate)
+require(tictoc)
+```
+
+
+# Get Config 
+
+```{r config}
+config <- read_json(here::here("conf", "testing.json"))
+```
+
+
+# Read Data
+
+## Read HTML file
+
+```{r read_html}
+read_html_data <- function(html_file) {
+    
+    tryCatch({
+      
+      testing_rate_html <- read_html(html_file)
+      return(testing_rate_html)
+      
+    }, error = function(e){
+      message(paste("Error reading HTML file"))
+      return(NULL)
+    })
+    
+}
+```
+
+# Extract Data 
+
+## Extract HTML Table
+
+```{r extract_html}
+extract_html_data <- function(html_data) {
+    
+    tryCatch({
+    
+        # capture the table details
+        testing_rate_tables <- html_data %>% 
+            html_nodes("table") %>%
+            html_table(fill=TRUE)
+
+        # capture the captions of the tables
+        testing_rate_captions <- html_data %>% 
+            html_nodes("caption") %>%
+            html_text()
+
+        # four tables
+        num_tests_dhb <- testing_rate_tables[[3]]
+        test_ethnicity <- testing_rate_tables[[4]]
+        num_tests_ethnicity_dhb <- testing_rate_tables[[5]]
+        pos_test_rate_ethnicity_dhb <- testing_rate_tables[[6]]
+
+        # captions 
+        num_tests_dhb_caption <- testing_rate_captions[[1]]
+        test_ethnicity_caption <- testing_rate_captions[[2]]
+        num_tests_ethnicity_dhb_caption <- testing_rate_captions[[3]]
+        pos_test_rate_ethnicity_dhb_caption <- testing_rate_captions[[4]]
+
+        # rename columns
+        num_tests_dhb_org_col_names <- colnames(num_tests_dhb)
+        colnames(num_tests_dhb) <- config$testing$num_tests_dhb_column_names
+
+        test_ethnicity_org_col_names <- colnames(test_ethnicity)
+        colnames(test_ethnicity) <- config$testing$test_ethnicity_column_names
+
+        num_tests_ethnicity_dhb_org_col_names <- colnames(num_tests_ethnicity_dhb)
+        colnames(num_tests_ethnicity_dhb) <- config$testing$num_tests_ethnicity_dhb_column_names
+
+        pos_test_rate_ethnicity_dhb_org_col_names <- colnames(pos_test_rate_ethnicity_dhb)
+        colnames(pos_test_rate_ethnicity_dhb) <- config$testing$pos_test_rate_ethnicity_dhb_column_names
+
+      
+      return(list(num_tests_dhb, test_ethnicity, num_tests_ethnicity_dhb, pos_test_rate_ethnicity_dhb))
+
+    }, error = function(e){
+      message(paste("Error extracting HTML file"))
+      return(NULL)
+    })
+
+}
+```
+
+
+# Save Tidy Data 
+
+```{r save_data}
+save_tidy_data <- function(table_data, out_file) {
+    write.csv(table_data, 
+              out_file, 
+              row.names = F)
+}
+```
+
+
+# Process File
+
+## HTML File
+
+```{r process_html}
+process_html_file <- function(html_file, update_date) {
+  
+  tryCatch({
+
+    html_data <- read_html_data(html_file)
+    
+    
+    testing_rate_tables <- extract_html_data(html_data)
+    num_tests_dhb <- testing_rate_tables[[1]]
+    test_ethnicity <- testing_rate_tables[[2]]
+    num_tests_ethnicity_dhb  <- testing_rate_tables[[3]]
+    pos_test_rate_ethnicity_dhb <- testing_rate_tables[[4]]
+    
+    out_file_path <- here::here(paste0(
+        config$testing$tidy_data, 
+        "%s_", 
+        update_date, 
+        ".csv"))
+     
+    save_tidy_data(num_tests_dhb, sprintf(out_file_path, 'testing_num_tests_dhb'))
+    save_tidy_data(test_ethnicity, sprintf(out_file_path, 'testing_test_ethnicity'))
+    save_tidy_data(num_tests_ethnicity_dhb, sprintf(out_file_path, 'testing_num_tests_ethnicity_dhb'))
+    save_tidy_data(pos_test_rate_ethnicity_dhb, sprintf(out_file_path, 'testing_pos_test_rate_ethnicity_dhb'))
+  
+  }, error = function(e){
+    message(paste("Error processing html file"))
+  })
+  
+}
+```
+
+
+
+# Process All Files
+
+## HTML files
+
+```{r html_files}
+
+tic("Processing HTML files")
+
+# Get all the html files
+html_files <- list.files(here::here(path=config$testing$raw_data), pattern="*.html", full.name = TRUE)
+
+# get the list previously processed files
+processed_files = read_csv(here::here(path=config$testing$processed_status_file),
+                           col_types = list(col_character(), col_character()))
+
+for (i in 1:length(html_files)) {
+    html_file <- html_files[i]
+    
+    tryCatch({
+
+        # Check if the file has been processed previously
+        file_name = str_split(html_file, '//')[[1]][2]
+        if (nrow(processed_files[str_which(processed_files$file_name, file_name), ]) == 0) {
+          print(file_name)
+          update_date <- str_extract(html_file, "\\d{4}-\\d{1,2}-\\d{1,2}")
+          
+          # process the file
+          process_html_file(html_file, update_date)
+          
+          # add file to the processed file index
+          processed_files <- processed_files %>% 
+            add_row(file_name = file_name, processed_date = format(now(), format="%Y-%m-%d %I:%M:%S"))
+        }
+
+    }, error = function(e){
+      message(paste("Error processing file - ", html_file))
+    })
+}
+
+write_csv(processed_files, here::here(path=config$testing$processed_status_file))
+
+toc()
+```

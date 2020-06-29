@@ -1,0 +1,92 @@
+---
+title: "Fetch COVID HTML Data"
+author: "CDS Labs"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(warnings = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(cache.path = 'cache/')
+knitr::opts_chunk$set(fig.path = 'figs/')
+```
+
+
+```{r libaries}
+require(tidyverse)
+require(here)
+require(jsonlite)
+require(rvest)
+require(stringr)
+require(lubridate)
+```
+
+
+```{r config}
+config <- read_json(here::here("conf", "testing.json"))
+```
+
+# Read HTML file
+
+```{r}
+testing_rate_html <- read_html(here::here('data/moh/testing/raw/testing_2020-04-18.html'))
+```
+
+# Extract Data from HTML
+
+## Extract Tables
+
+```{r}
+# capture the table details
+testing_rate_tables <- testing_rate_html %>% 
+    html_nodes("table") %>%
+    html_table(fill=TRUE)
+
+# capture the captions of the tables
+testing_rate_captions <- testing_rate_html %>% 
+    html_nodes("caption") %>%
+    html_text()
+
+# four tables
+test_rate_ethnicity <- testing_rate_tables[[3]]
+test_rate_residence_dhb <- testing_rate_tables[[4]]
+tests_rate_ethnicity_dhb <- testing_rate_tables[[5]][-1,]
+
+# captions 
+test_rate_ethnicity_caption <- testing_rate_captions[[1]]
+test_rate_residence_dhb_caption <- testing_rate_captions[[2]]
+tests_rate_ethnicity_dhb_caption <- testing_rate_captions[[3]]
+
+# rename columns
+test_rate_ethnicity_org_col_names <- colnames(test_rate_ethnicity)
+colnames(test_rate_ethnicity) <- c("ethnicity", "total_people", "perc_people", "total_tests", "total_population", "rate_per_1000")
+
+test_rate_residence_dhb_org_col_names <- colnames(test_rate_residence_dhb)
+colnames(test_rate_residence_dhb) <- c("DHB", "total_people", "perc_people", "total_tests", "total_population", "rate_per_1000")
+
+tests_rate_ethnicity_dhb_org_col_names <- colnames(tests_rate_ethnicity_dhb)
+colnames(tests_rate_ethnicity_dhb) <- c("DHB",	"Asian_pos_rate", "Maori_pos_rate", "Other_pos_rate", "Pacific_pos_rate",  "Asian_rate_per_10000", "Maori_rate_per_10000", "Other_rate_per_10000", "Pacific_rate_per_10000")
+```
+
+
+
+# Save Tidy Data 
+
+```{r}
+update_date <- '2020-04-18'
+
+write.csv(test_rate_ethnicity, 
+          here::here(paste0("data/moh/testing/tidy/testing_rate_ethnicity_", update_date, ".csv")), 
+          row.names = F)
+
+write.csv(test_rate_residence_dhb, 
+          here::here(paste0("data/moh/testing/tidy/testing_rate_residence_dhb_", update_date, ".csv")), 
+          row.names = F)
+
+write.csv(tests_rate_ethnicity_dhb, 
+          here::here(paste0("data/moh/testing/tidy/testing_rate_ethnicity_dhb_", update_date, ".csv")), 
+          row.names = F)
+```
+
+
